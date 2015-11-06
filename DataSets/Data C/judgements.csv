@@ -1,0 +1,417 @@
+QID,URLNO,PNO,REL,EXPL
+1,8,1,1,It explains who successfully got treated for ebola
+1,9,1,1,It explains who successfully got treated for ebola
+1,10,1,1,shows names of the persons and states they are first
+1,9,2,1,shows names of the persons and states they are first
+1,9,2,0,does not tell about who got cured and when
+1,11,1,0,does not tell about who got cured and when
+1,11,2,1,gives information about patients who first got treated
+1,11,3,0,does not tell about who got cured and when
+1,11,4,0,does not tell about who got cured and when
+1,11,5,0,does not tell about who got cured and when
+2,12,1,0,does not tell about who got cured and when
+2,12,2,0,does not tell about who got cured and when
+2,13,1,1,It explains who successfully got treated for ebola
+2,13,2,0,does not tell about who got cured and when
+2,14,1,1,It explains who successfully got treated for ebola
+2,14,2,0,does not tell about who got cured and when
+2,14,3,0,does not tell about who got cured and when
+2,15,1,1,It explains who successfully got treated for ebola
+2,16,1,1,It explains who successfully got treated for ebola
+2,18,1,1,It explains who successfully got treated for ebola
+3,20,1,0,does not tell about successful treatment
+3,20,2,1,states that who got treated and when
+3,30,1,1,states that who got treated and when
+3,30,2,0,does not tell about successful treatment
+3,31,1,1,states that who got treated and when
+5,113,2,1,first in area of 2014
+5,113,3,1,initial at glasgov
+5,113,4,1,in 2014
+5,114,1,1,in 2014
+5,116,1,1,first in 2014
+6,116,2,1,initial of 2014
+6,116,3,1,US 2014 cases
+6,116,4,1,in guniea 2014
+6,116,5,1,in lumeria
+6,116,6,1,in sierra
+7,134,1,1,relevant
+7,134,2,1,relevant
+7,134,3,1,relevant
+7,134,4,1,relevant
+7,136,1,1,relevant
+8,82,2,1,relevant information
+8,82,3,1,relevant information
+8,82,4,1,relevant information
+8,82,5,1,relevant information
+8,83,1,1,relevant information
+8,83,2,1,relevant information
+8,83,3,1,relevant information
+8,83,4,1,relevant information
+8,83,5,1,relevant information
+9,84,1,1,relevant information
+9,84,2,1,relevant information
+9,84,3,1,relevant information
+9,84,4,1,relevant information
+9,84,5,1,relevant information
+10,85,1,1,relevant information
+10,85,2,1,relevant information
+10,85,3,1,relevant information
+10,85,4,1,relevant information
+10,85,5,1,relevant information
+11,86,1,1,relevant information
+11,88,1,1,relevant information
+11,88,2,1,relevant information
+11,88,3,1,relevant information
+11,88,4,1,relevant information
+12,103,1,1,relevant information
+12,103,2,1,relevant information
+12,104,3,1,relevant information
+12,104,1,1,relevant information
+12,104,2,1,relevant information
+13,300,1,1,It is giving the relevant information
+13,300,2,1,It is giving the relevant information
+13,301,1,1,It is giving the relevant information
+13,301,2,1,It is giving the relevant information
+13,301,3,1,It is giving the relevant information
+13,302,1,0,It is not giving the relevant information
+13,302,2,0,It is not giving the relevant information
+14,303,1,1,It is giving the relevant information
+14,304,1,1,It is giving the relevant information
+14,305,1,1,It is giving the relevant information
+14,306,1,1,It is giving the relevant information
+14,306,2,1,It is giving the relevant information
+14,307,1,0,It is not giving the relevant information
+14,308,1,0,It is not giving the relevant information
+15,309,1,1,It is giving the relevant information
+15,309,2,1,It is giving the relevant information
+15,310,1,1,It is giving the relevant information
+16,17,1,1,Gives the incubation period of Ebola
+16,17,2,0,Does not give any indication of Incubation period
+16,34,3,1,Gives the incubation period of Ebola
+16,34,4,0,Does not give any indication of Incubation period
+16,37,5,1,Gives the incubation period of Ebola
+16,37,6,0,Gives a slight indication of incubation period but is not strong enough as there are no further relevance factors
+16,42,7,1,Gives the incubation period of Ebola
+16,42,8,0,Does not give any indication of Incubation period
+16,43,9,1,Gives the incubation period of Ebola
+16,43,10,0,Does not give any indication of Incubation period
+17,46,11,1,Gives the incubation period of Hep B
+17,46,12,0,Does not give any indication of Incubation period
+184,167,2,0,It is not providing relevant information
+185,168,1,0,It is not providing relevant information
+185,169,1,0,It is not providing relevant information
+185,170,1,1,It is providing relevant information
+185,171,1,1,It is providing relevant information
+185,171,2,0,It is not providing relevant information
+185,172,1,1,It is providing relevant information
+185,173,1,1,It is providing relevant information
+185,173,2,1,It is providing relevant information
+185,173,3,0,It is not providing relevant information
+185,174,1,0,It is not providing relevant information
+186,175,1,0,It is not providing relevant information
+186,176,1,1,It is providing relevant information
+186,177,1,0,It is not providing relevant information
+186,178,1,1,It is providing relevant information
+186,179,1,1,It is providing relevant information
+186,179,2,0,It is not providing relevant information
+186,180,1,1,It is providing relevant information
+186,180,2,1,It is providing relevant information
+186,180,3,0,It is not providing relevant information
+186,181,1,0,It is not providing relevant information
+187,182,1,0,It is not providing relevant information
+187,183,1,0,It is not providing relevant information
+187,184,1,1,It is providing relevant information
+187,185,1,1,It is providing relevant information
+187,186,1,1,It is providing relevant information
+20,369,1,1,It is giving the relevant information
+20,369,2,1,It is giving the relevant information
+20,370,1,0,It is not giving the relevant information
+20,371,1,1,It is giving the relevant information
+20,371,2,1,It is giving the relevant information
+20,371,3,0,It is not giving the relevant information
+20,371,4,1,It is giving the relevant information
+20,471,3,0,It is not giving the relevant information
+20,472,1,0,It is not giving the relevant information
+20,472,2,0,It is not giving the relevant information
+21,372,1,1,It is giving the relevant information
+21,373,1,1,It is giving the relevant information
+21,374,1,1,It is giving the relevant information
+21,374,2,1,It is giving the relevant information
+21,375,1,1,It is giving the relevant information
+21,376,1,0,It is not giving the relevant information
+21,376,2,0,It is not giving the relevant information
+21,473,1,0,It is not giving the relevant information
+21,473,2,0,It is not giving the relevant information
+21,473,3,0,It is not giving the relevant information
+22,377,1,1,It is giving the relevant information
+22,377,2,1,It is giving the relevant information
+22,377,3,1,It is giving the relevant information
+22,378,1,1,It is giving the relevant information
+22,379,1,1,It is giving the relevant information
+22,379,2,0,It is not giving the relevant information
+22,379,3,0,It is not giving the relevant information
+22,474,1,0,It is not giving the relevant information
+22,474,2,0,It is not giving the relevant information
+22,474,3,0,It is not giving the relevant information
+23,380,1,1,It is giving the relevant information
+23,381,1,1,It is giving the relevant information
+23,382,1,1,It is giving the relevant information
+23,383,1,1,It is giving the relevant information
+23,384,1,1,It is giving the relevant information
+23,384,2,0,It is not giving the relevant information
+23,384,3,0,It is not giving the relevant information
+23,475,1,0,It is not giving the relevant information
+23,475,2,0,It is not giving the relevant information
+23,475,3,0,It is not giving the relevant information
+24,385,1,1,It is giving the relevant information
+24,386,1,1,It is giving the relevant information
+24,387,1,1,It is giving the relevant information
+24,388,1,1,It is giving the relevant information
+24,389,1,1,It is giving the relevant information
+24,389,2,0,It is not giving the relevant information
+24,389,3,0,It is not giving the relevant information
+24,476,1,0,It is not giving the relevant information
+24,476,2,0,It is not giving the relevant information
+24,476,3,1,It is giving the relevant information
+25,337,1,1,It is giving the relevant information
+25,338,1,1,It is giving the relevant information
+25,339,1,1,It is giving the relevant information
+25,339,2,1,It is giving the relevant information
+25,340,1,1,It is giving the relevant information
+25,340,2,0,It is not giving the relevant information
+25,340,3,0,It is not giving the relevant information
+26,341,1,1,It is giving the relevant information
+26,342,1,1,It is giving the relevant information
+26,342,2,1,It is giving the relevant information
+26,343,1,1,It is giving the relevant information
+26,344,1,1,It is giving the relevant information
+26,344,2,0,It is not giving the relevant information
+26,344,3,0,It is not giving the relevant information
+27,345,1,1,It is giving the relevant information
+27,346,1,1,It is giving the relevant information
+27,346,2,1,It is giving the relevant information
+27,346,3,1,It is giving the relevant information
+27,347,1,1,It is giving the relevant information
+27,347,2,0,It is not giving the relevant information
+27,347,3,0,It is not giving the relevant information
+28,348,1,1,It is giving the relevant information
+28,348,2,1,It is giving the relevant information
+28,348,3,1,It is giving the relevant information
+28,349,1,1,It is giving the relevant information
+28,349,2,1,It is giving the relevant information
+28,349,3,0,It is not giving the relevant information
+28,349,4,0,It is not giving the relevant information
+29,350,1,1,It is giving the relevant information
+29,350,2,1,It is giving the relevant information
+29,351,1,1,It is giving the relevant information
+29,351,2,1,It is giving the relevant information
+29,351,3,1,It is giving the relevant information
+29,351,4,0,It is not giving the relevant information
+29,351,5,0,It is not giving the relevant information
+5,153,1,1,begin abruptly with
+5,154,1,1,early ebola symptoms
+5,154,2,1,early symptoms developed for ebola
+5,155,1,1,acc to cdc early symptoms are
+6,156,1,1,first signs of ebola
+6,157,1,1,sudden first symptoms
+6,158,1,1,initial symptoms of typhus
+6,159,1,1,first symptoms
+6,160,1,1,ebola symptoms
+7,161,1,1,ebola symptoms initial
+7,161,2,1,initial stages of ebola
+7,161,3,1,symptoms ebola
+7,162,1,1,cholera symptoms
+7,163,1,1,cholera symptoms
+8,163,2,1,cholera symptoms
+8,164,1,1,most symptoms
+8,165,1,1,symptoms of cholera
+8,166,1,1,symptoms of cholera
+8,167,1,1,in hours symptoms
+284,875,2,0,"[Ebola,  fever, muscle pain, headache, sore throat, or fatigue,vomiting, diarrhea, rashes, and impaired kidney or liver, muscle,head,throat,kidney,liver]"
+284,875,3,0,"[Ebola,  flu-like symptoms,hemorrhagic symptoms,bleeding out of the eyes,minor bleeding, some may just have bleeding, eyes,gums]"
+284,875,4,0,"[Ebola, blood clots, liver, brain, kidneys,lungs, intestines, testicles]"
+284,875,5,0,"[Ebola,  blood thickens and slows, and clots begin to stick to the walls of blood vessels, brain, liver, kidneys, lungs,intestines, testicles, breast tissue]"
+284,876,1,0,"[Ebola,malaria, typhoid fever,  fever, chills, muscle pain, sore throat, weakness and general discomfort,Chest pain,bleeding from eyes ears nose mouth, face,neck,torso,arms,chest,eyes,ears,nose mouth.]"
+284,877,1,0,[Ebola]
+284,878,1,0,"[Ebola,  inability to activate T-cells]"
+284,878,2,0,"[Ebola, sharp decline of lymphocytes, white blood cells, lymph nodes, liver, spleen]"
+284,878,2,0,[Ebola]
+283,871,8,0,"[Ebola,  feeling tired, fever, pain in the muscles and joints,headache, and sore throat,vomiting, diarrhea and abdominal, muscles,joints,head,throat,abdomen,chest, Ebola virus]"
+283,871,9,0,"[Ebola,  sudden increase in body temperature, strong headaches, and joint and muscle pain,Diarrhea, vomiting, and stomach pain., muscles,joints,head,stomach,eyes,nose,tongue., Ebola virus]"
+283,872,1,0,"[Ebola,  diarrhea, dark or bloody feces,vomiting blood, red eyes due to distention and hemorrhage of sclerotic arterioles eyes,mouth,rectum,anus,nose,brain., Ebola virus]"
+283,873,1,0,"[Ebola,  bleed from the nose and mouth,impaired kidney and liver function,blood in the stoolses, bleeding in the brain can lead to severe depression nose,mouth,kidney,liver,brain., Ebola virus]"
+283,873,2,0,"[Ebola,  bleed from the nose and mouth,impaired kidney and liver function,blood in the stoolses, bleeding in the brain can lead to severe depression nose,mouth,kidney,liver,brain., Ebola virus]"
+283,873,3,0,"[Ebola, Ebola virus]"
+283,874,1,0,"[Ebola, bleeding from their eyes, ears, nose, Ebola virus]"
+283,875,1,0,"[Ebola,  irritation to the diaphragm, ocularinjection and in very light skinned persons a macular rash.]"
+282,870,14,0,"[liver,brain,kidney,spleen., Ebola virus]"
+282,871,1,0,"[ Blood clots,blood flow weakens,red spots, liver,brain,lungs,kidneys,intestines,breast,testicles, Ebola virus]"
+282,871,2,0,"[Ebola, Ebola virus]"
+282,871,3,0,"[ fever,headache,muscle aches,rash,chest pain,vomiting,diarrhea,bleeding,shock, head,muscle,chest,liver,kidney, Ebola virus]"
+282,871,4,0,"[Ebola,  hemorrhagic fever,chills,myalgia,nausea,vomiting,diarrhea,chestpain,cough,headache,malaria,dysentery,influenza, chest,head, Ebola virus]"
+282,871,5,0,"[ malaria,fever,plague,rash,red eyes,hiccups,chest pain,vomiting,diarrhea, liver,eyes,chest,kidney, Ebola virus]"
+282,871,6,0,"[., Ebola virus]"
+282,871,7,0,"[ Blood clotting, Ebola virus]"
+281,870,7,0,"[ Blood clots,Red spots,bleeding, liver,brain,lungs,kidneys,intestines,breast,testicles, Ebola virus]"
+281,870,8,0,"[ Blood clots,Red spots,bleeding, liver,brain,lungs,kidneys,intestines,breast,testicles, Ebola virus]"
+281,870,9,0,"[ Blood clots,Red spots,bleeding, liver,brain,lungs,kidneys,intestines,breast,testicles, Ebola virus]"
+281,870,10,0,"[Ebola,  headaches,muscle pain,decreased appetite,sore throat,white blisters,red spots,bleeding., skin,head,muscle,eyes,nose,mouth.]"
+281,870,11,0,"[ fever fatigue,muscle pain,headache,sore throat,vomiting,diarrheo,rash,bleeding, head,muscle,throat,kidney,liver, Ebola virus]"
+281,870,12,0,"[Ebola, Ebola virus]"
+281,870,13,0,"[Ebola, Ebola virus]"
+272,848,2,0,"[malaria, infectious tropical diseases]"
+272,849,1,0,"[malaria, antimalarial, antibiotic]"
+272,850,1,0,"[malaria, pneumonia, diarrhea, tuberculosis, and HIV/AIDS]"
+272,850,2,0,"[malaria, fever, chills, sweats, headaches, muscle pains, nausea and vomiting, Plasmodium falciparum]"
+4,1,1,1,first cae in new york 2014
+4,1,2,1,first case texas
+4,3,1,1,first case congo
+4,5,1,1,14-Mar
+4,5,2,0,not first case
+4,5,3,0,not first case
+4,5,4,0,not first case
+4,2,1,0,not first n texas
+4,4,1,1,first in africa
+4,6,1,0,1976
+16,7,1,0,guniea
+16,19,1,1,firs case in us
+16,19,2,0,second case
+16,21,1,1,africa initial spread
+16,21,2,1,to US
+16,21,3,0,its not 2014
+16,32,1,0,only statistics
+16,6,2,1,2014
+16,6,3,0,virus causing not relevant
+16,38,1,1,quick spread in 2014
+4,124,1,1,
+4,124,2,1,
+4,124,3,1,
+4,128,1,1,
+4,129,1,1,
+4,22,2,1,relevant
+4,22,1,1,relevant
+4,23,1,1,relevant
+4,24,1,0,irrelevant
+4,25,1,1,relevant
+4,26,1,1,relevant
+4,26,2,1,relevant
+4,25,2,0,irrelevant
+4,25,3,0,irrelevant
+4,25,4,0,irrelevant
+4,25,5,0,irrelevant
+46,26,1,1,relevant
+46,26,2,1,relevant
+46,26,3,1,relevant
+46,27,1,1,relevant
+46,27,2,1,relevant
+46,26,3,0,irrelevant
+46,26,4,0,irrelevant
+46,26,5,0,irrelevant
+46,28,1,0,irrelevant
+46,28,2,0,irrelevant
+275,116,12,1,in 2014 mali
+275,121,1,1,first of mali
+275,123,1,1,first of limerea
+275,125,1,1,first person in texas
+275,126,1,1,out of africa 2014
+273,116,7,1,in senegal 2014
+273,116,8,1,in nigerea 2014
+273,116,9,1,first known nigerea
+273,116,10,1,relevant
+273,116,11,1,relevant
+47,141,1,1,The given information is relevant
+47,142,1,1,The given information is relevant
+47,142,2,1,The given information is relevant
+47,142,3,1,The given information is relevant
+47,142,4,1,The given information is relevant
+48,144,1,1,The given information is relevant
+48,144,2,1,The given information is relevant
+48,145,1,1,The given information is relevant
+48,146,1,1,The given information is relevant
+48,147,1,1,The given information is relevant
+49,148,1,1,The given information is relevant
+49,148,2,1,The given information is relevant
+49,148,3,1,The given information is relevant
+49,148,4,1,The given information is relevant
+49,148,5,1,The given information is relevant
+50,149,1,1,The given information is relevant
+50,149,2,1,The given information is relevant
+50,150,1,1,The given information is relevant
+50,151,1,1,The given information is relevant
+50,151,2,1,The given information is relevant
+51,181,1,1,The given information is relevant
+51,181,2,1,The given information is relevant
+51,181,3,1,The given information is relevant
+51,181,4,1,The given information is relevant
+51,181,5,1,The given information is relevant
+52,182,1,1,The given information is relevant
+52,182,2,1,The given information is relevant
+52,182,3,1,The given information is relevant
+52,182,4,1,The given information is relevant
+52,182,5,1,The given information is relevant
+53,183,1,1,The given information is relevant
+53,183,2,1,The given information is relevant
+53,183,3,1,The given information is relevant
+53,184,1,1,The given information is relevant
+53,184,2,1,The given information is relevant
+47,616,1,0,"[Ebola, Ebola virus]"
+47,617,1,0,[Typhus]
+47,618,1,0,[Typhus]
+47,619,1,0,[Typhus]
+47,619,2,0,[Typhus]
+48,620,1,0,"[Scrub Typhus,dengue,Malaria, headache, high fever and rash]"
+48,621,1,0,"[Murine typhus,endemic typhus,Mexican typhus,flea-borne typhus]"
+48,622,1,0,"[Endemic typhus,typhoid, malaise, headache, and myalgia]"
+48,623,1,0,[Ebola]
+48,624,1,0,[Ebola]
+49,625,1,0,"[Ebola,  21-day incubation period]"
+49,626,1,0,[Ebola virus disease]
+49,626,2,0,[Ebola]
+49,627,1,0,[Ebola]
+49,628,1,0,[Ebola]
+50,628,2,0,[Ebola]
+50,628,3,0,[Ebola]
+50,629,1,0,[Ebola]
+50,629,2,0,[Ebola]
+50,630,1,0,"[Hepatitis, Typhoid and Cholera]"
+51,631,1,0,[Ebola]
+51,631,2,0,[EVD]
+51,632,1,0,"[Ebola, Ebola virus,Zaire virus]"
+51,632,2,0,"[Ebola, blood transfusions,drugs]"
+51,632,3,0,[Ebola Virus Disease]
+52,633,1,0,[Ebola]
+52,634,1,0,"[Ebola, Drugs]"
+52,635,1,0,"[Ebola, fever, nausea, pain,fatigue]"
+52,636,1,0,"[Ebola, Fever, diarrhea]"
+52,637,1,0,[Ebola]
+53,638,1,0,"[Ebola, sicker]"
+53,638,2,0,"[Ebola, Fever severe diarrhea vomiting dehydration, Blood kidney liver]"
+53,639,1,0,[Ebola]
+53,639,2,0,[Ebola]
+53,640,1,0,"[Ebola, Ebola virus]"
+47,664,1,0,[]
+47,664,2,0,"[Ebola, joint and vision problems., good supportive care and the patient’s immune response]"
+47,665,1,0,[Ebola]
+47,666,1,0,[Ebola]
+47,666,2,0,[Ebola]
+54,30,1,1,relevant
+54,30,2,1,relevant
+54,29,3,1,relevant
+54,31,1,1,relevant
+54,31,2,1,relevant
+54,32,1,0,irrelevant
+54,32,2,0,irrelevant
+54,32,3,0,irrelevant
+54,32,4,0,irrelevant
+54,32,5,0,irrelevant
+55,74,1,1,relevant
+55,74,3,1,relevant
+55,74,4,1,relevant
+55,75,1,1,relevant
+55,75,2,1,relevant
+55,74,2,0,irrelevant
+55,75,3,0,irrelevant
+55,74,4,0,irrelevant
+55,74,5,0,irrelevant
+55,74,6,0,irrelevant
+

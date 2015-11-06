@@ -1,0 +1,1464 @@
+URLNO,PNO,RFN,VALUE
+1,1,1,ebola
+1,1,6,2014
+1,2,1,ebola
+1,2,6,2014
+3,1,1,ebola
+3,1,6,2014
+5,1,1,ebola
+5,1,6,2014
+5,2,1,ebola
+5,2,6,2014
+5,3,1,ebola
+5,3,6,2014
+5,3,7,not initial
+5,4,1,ebola
+5,4,6,2014
+5,4,7,not initial
+2,1,1,ebola
+2,1,6,2014
+2,1,7,late 2014
+4,1,1,ebola
+4,1,6,2014
+4,1,7,first in 2014
+4,2,1,ebola
+4,2,6,1976
+4,2,7,old
+7,1,1,guniea
+7,1,6,2014
+7,1,7,latest
+19,1,1,ebola
+19,1,6,2014
+19,1,7,first
+19,2,1,ebola
+19,2,6,2014
+19,2,7,second
+21,1,1,ebola
+21,1,6,2014
+21,1,7,initial
+21,2,1,ebola
+21,2,6,2014
+21,3,1,ebola
+21,3,6,1976
+21,3,7,first
+32,1,1,ebola
+32,1,6,2014
+6,2,1,ebola
+6,2,6,2014
+6,2,7,first
+6,3,1,ebola
+6,3,6,2014
+38,1,1,ebola
+38,1,6,2014
+38,1,7,initial
+124,1,1,ebola
+124,1,2,"Fever,Severe headache,Muscle pain"
+124,2,1,ebola
+124,2,2,"Weakness,Fatigue,Diarrhea"
+124,3,1,ebola
+124,3,2,"Vomiting,Abdominal (stomach) pain,Unexplained hemorrhage (bleeding or bruising)"
+128,1,1,ebola
+128,1,2,"bleeding both inside and outside the body (for example, mucosal surfaces, eyes) and difficulty breathing and swallowing."
+128,1,8,ebola virus
+129,1,1,ebola
+129,1,2,"fever, headache, body aches, cough, stomach pain, vomiting, and diarrhea"
+22,2,1,ebola
+22,2,3,electron microscopy
+22,2,4,RT - qPCR
+22,2,5,RT - qPCR
+22,2,7,ebola virus
+22,1,1,ebola
+22,1,3,EBOVdtec-RT-qPCR
+22,1,2,diarrhea
+22,1,7,Zaire ebolavirus
+23,1,1,ebola
+23,1,3,anti body based detection
+23,1,4,RT - qPCR
+23,1,5,RT - qPCR
+23,1,7,ebola virus
+24,1,1,Viral hemorrhagic fevers 
+24,1,3,PCR
+24,1,4,SybrGreen
+24,1,7,Lassa virus
+25,1,1,ebola
+25,1,3,PCR
+26,1,1,ebola
+26,1,3,EBOV NP rRT-PCR
+26,1,7,ebola virus RNA
+26,2,1,Ebola
+26,2,3,EBOV NP rRT-PCR
+26,2,7,ebola virus RNA
+25,2,1,ebola
+25,2,3,FDA
+25,2,6,august
+25,3,2,illness
+25,3,3,low hanging fruit
+25,4,1,HPV
+25,4,2,cancer
+25,4,4,genotyping
+25,5,3,nucleic acid amplification
+25,5,5,food
+25,5,7,coming year
+26,3,1,ebola
+26,3,3,CDC
+26,3,5,CDC
+26,3,7,ebola virus
+27,1,1,ebola
+27,1,3,CDC
+27,1,8,ebola virus
+27,2,1,ebola
+27,2,3,CDC
+27,2,8,ebola virus 
+26,4,1,ebola
+26,4,2,"high fewer, vomitimg and diarrhea"
+26,5,1,ebola
+26,5,5,is not airborne is harder to spread and rigorous infection control procedures
+26,5,8,ebola virus
+28,1,1,ebola
+28,1,2,"Elevated body temperature or subjective fever or symptoms, including severe headache, fatigue, muscle pain, vomiting, diarrhea, abdominal pain, or unexplained hemorrhage"
+28,1,3,persons who meet the criteria for persons under investigation (PUIs) for EVD
+28,2,1,ebola
+28,2,3,whole blood collected in a plastic tube preserved with EDTA is the preferred sample for testing
+28,2,8,ebola virus
+30,1,1,ebola
+30,2,1,"ebola, malaria and typhoid"
+30,2,2,fever
+29,3,1,ebola
+29,3,3,Samples from the patient can then be collected and tested to confirm infection
+29,3,8,contaminated blood
+31,1,1,ebola and marburg hemorrhagic fever
+31,1,3,blood test
+31,1,8,ebola or marburg virus
+31,2,1,ebola
+31,2,3,labs can test for ebola
+31,2,8,ebola or marburg virus
+32,1,1,ebola
+32,1,2,fever
+32,1,3,begin-Antigen-capture enzyme-linked immunosorbent assay (ELISA) testing IgM ELISA-Polymerase chain reaction (PCR) Virus isolation Later in disease course or after recovery
+32,1,8,ebola PCR virus
+32,2,1,ebola
+32,2,3,ReEBOV Antigen Rapid Test Kit
+32,2,5,"to provide minimum quality, safety and performance assurance for diagnostic products in the context of the Ebola emergency."
+32,3,1,ebola
+32,3,3,Nucleic acid tests (NATs) 
+32,3,8,ebola virus
+32,4,1,ebola
+32,4,7,last 21 days
+32,4,8,virus
+32,5,1,ebola
+32,5,8,ebola virus
+74,1,1,ebola
+74,1,3,detected in samples collected from bats
+74,1,6,2014- 2015
+74,1,8,ebola virus
+74,3,1,ebola
+74,3,2,illness
+74,3,8,ebola virus
+74,4,1,ebola
+74,4,8,ebola virus
+75,1,1,ebola
+75,1,2,"fever, chills, myalgias, and malaise"
+75,1,8,evd
+75,2,1,ebola
+75,2,2,fever
+75,2,3,differential diagnosis
+74,2,1,ebola
+74,2,2,"Clinical criteria, which include elevated body temperature or subjective fever or additional symptoms such as severe headache, fatigue, muscle pain, vomiting, diarrhea, abdominal pain, or unexplained hemorrhage"
+74,2,5,"residence in—or travel to—a country with widespread transmission or cases in urban settings with uncertain control measures; participation in funeral and burial rituals, or direct handling of bats, rodents, or primates from disease-endemic areas."
+74,2,8,evd
+75,3,1,ebola
+75,3,2,"fever, chills, and general malaise, but low-grade fever and malaise"
+75,3,8,ebola virus
+74,5,1,ebola
+74,5,2,"Rash — A diffuse erythematous, nonpruritic maculopapular rash"
+74,5,6,2014-2015
+74,5,8,ebola virus
+74,6,1,ebola
+74,6,2,"diarrhea, chest pain, cough, difficulty breathing, difficulty swallowing, conjunctivitis, sore throat, confusion, hiccups, and coma or unconsciousness."
+43,1,1,ebola
+43,1,2,fatal illness
+43,1,3,"physical examination findings, while laboratory data suggested the subjects were undergoing an intense inflammatory response"
+43,1,6,2014-2015
+43,1,8,ebola virus
+43,2,1,leukopenia
+43,3,1,ebola
+43,3,2,breaks in skin
+43,3,8,ebola virus
+43,4,1,ebola
+43,4,8,ebola virus
+43,5,1,ebola
+43,5,5,"kits were put together to help families treat Ebola disease in their homes, which include protective clothing as well as chlorine powderand other cleaning supplies.[87] Education of those who provide care in these techniques, and the provision of such barrier-separation supplies has been a priority of Doctors Without Borders"
+43,5,6,2014
+43,5,8,"All equipment, medical waste, patient waste and surfaces that may have come into contact with body fluids need to be disinfected"
+85,1,7,this week
+85,2,7,time
+85,2,8,virus
+85,3,7,first
+85,3,8,virus
+85,4,4,ZMapp
+85,4,7,first
+87,1,7,first
+87,1,8,virus
+87,2,5,worn suits
+87,2,8,bodily fluids
+89,1,4,ZMapp
+89,1,7,week after
+89,1,7,early August
+89,1,8,virus
+89,2,7,first
+89,2,8,virus
+89,3,7,This week
+89,4,4,ZMapp
+89,4,8,virus
+90,1,7,this week
+90,1,7,first
+90,2,7,in
+92,1,7,last month
+92,1,8,virus
+92,2,8,"blood, saliva and urine"
+92,2,7,Historically
+92,2,8,bodily fluids
+93,1,7,Aug. 19 and Aug. 21
+93,1,7,Aug. 21
+93,1,7,Aug. 12
+93,1,7,Aug. 5
+93,1,7,Aug. 2
+93,2,7,Sept. 9
+93,2,7,Sept. 8
+93,2,7,Sept. 3
+94,1,7,first
+94,1,8,virus
+94,2,5,good isolation practices
+94,2,7,first
+95,1,7,later
+95,1,7,first
+95,2,7,Last week
+95,2,7,over the past two months
+96,1,7,first
+96,1,7,in
+96,1,7,In months
+96,2,8,virus
+97,1,7,first
+97,1,8,virus
+97,2,7,first
+97,2,8,virus
+98,1,4,serum
+98,1,7,first
+98,2,7,late Tuesday
+99,1,7,first
+99,1,7,after
+99,1,7,recently
+99,2,7,Since
+100,1,7,first
+100,1,7,12 years 
+100,1,8,viruses
+100,2,7,Saturday
+100,2,7,first
+101,1,7,first
+101,1,8,virus
+101,2,7,before
+101,2,7,first
+102,1,7,first
+102,1,4,Zmapp
+102,1,7,since
+102,1,7,later
+102,1,7,late July
+102,2,4,serum from convalescents
+102,2,7,later
+102,2,7,1976
+47,13,7,at least 7 days
+47,13,1,75 days on average
+47,13,7,vary from 30 to 180 days
+47,13,7, within 30 to 60 days
+47,14,2,chronic infection
+47,14,2,cirrhosis and liver cancer
+52,15,7,lasting 1.5 to 6 months
+52,15,7,average 4 months
+52,15,7,first 6 months
+52,15,2,mild illness
+52,16,1,risk for hepatitis
+58,17,7,60 to 90 days
+58,17,7,as soon as 45 days
+58,17,7,as late as 180 days
+58,18,8,"blood, semen, or vaginal fluids"
+61,19,1,2–3 months
+61,19,7,averages
+61,19,7,range
+61,19,1,incubation period correlating
+61,20,1,extrahepatic manifestations
+69,21,1,3–5 million cholera cases
+69,21,1,100 000–120 000 deaths
+69,21,1,two hours to five days
+69,21,7,short incubation period
+69,22,5,preparedness and response
+70,23,1,1.4 days
+70,23,7,by 0.5 days
+70,23,7,95% by 4.4 days
+70,24,3,extracted individual-level data
+70,24,3,parametrically estimated
+70,24,3,evaluated evidence
+70,25,1,two hours and five days
+70,25,7,between
+70,25,5,returning from Haiti
+153,2,1,malaria
+153,2,4,one type of medication
+153,2,4,anti-malarial medicines
+153,2,7,over the past few decades
+153,2,8,Plasmodium falciparum
+153,3,1,malaria
+153,3,4,anti-malarial medicine
+153,3,7,first
+153,3,7,for several weeks afterwards.
+154,1,1,malaria
+154,1,2,feeling very weak and tired 
+154,1,4,how quickly treatment is administered
+154,1,7,recovery time from malaria
+154,1,7,several weeks afterwards
+154,2,1,malaria
+154,2,7,within a couple of days
+154,2,7,for longer
+154,2,8,P. malariae
+154,2,8,P. falciparum
+155,1,1,cerebral malaria
+155,1,2,neurological effects
+155,1,7,some longer term
+155,1,8,P. falciparum
+155,2,1,malaria
+155,2,1,P. ovale and P. vivax
+155,2,7,at a later date
+155,2,7,"for weeks, months or even years"
+156,1,1,malaria
+156,1,1,P. vivax and P. ovale
+156,1,2,person will become sick.
+156,1,7,7 days or as late as 1 year later
+156,1,7,10 days to 4 weeks after infection
+156,1,8,infected mosquito
+156,2,1,malaria
+156,2,1,P. vivax and P. ovale
+156,2,4,Antimalarial drugs
+156,2,8,mosquito
+156,2,7,months after
+156,2,7,weeks or months
+156,2,8, dormant liver stage parasites
+156,1,1,Ebola
+156,1,2,severe clinical signs
+156,1,2,multiorgan failure and septic shock
+156,1,7,between days 6 and 16
+157,1,1,Ebola
+157,1,2,sick
+157,1,7,last year
+157,1,1,Ebola
+157,1,2,sick
+157,1,4,vaccine
+157,1,7,last year
+157,1,1,malaria
+157,1,2,"fever, chills, sweating"
+157,1,4,proper treatment
+157,1,7,over a period of years
+157,1,7,two weeks
+157,2,1,malaria
+157,2,4,antimalarial drugs
+157,2,4,"medications to control fever, antiseizure medications"
+157,2,4,fluids and electrolytes
+157,1,1,malaria
+157,1,4,Antimalarial Pills
+157,1,4,medications to control fever
+157,1,7,within two weeks
+158,1,1,malaria
+158,1,4,regular dose of penicillin
+158,1,4,penicillin by mouth
+158,1,4,single injection of penicillin G-
+158,1,7,10-day
+158,1,7,every three weeks
+158,2,1,malaria
+158,2,4,antibiotic
+158,2,7,within 10 days
+158,2,8,bacteria
+158,3,1,malaria
+158,3,2,develops carditis
+158,3,4,valve replacement surgery
+159,1,1,malaria
+159,1,4,artemether-lumefantrine
+159,1,4,quinine therapy
+159,1,7,seven day
+160,1,1,malaria
+160,1,2,nerve damage
+160,1,7,over the course of years
+160,1,1,typhus
+160,1,2,gastrointestinal bleeding or rupture of the intestines
+160,1,7,a life
+160,1,7,two to three weeks
+161,1,1,typhus
+161,1,7,just a few weeks later
+161,1,7,first
+161,1,7,second
+162,1,1,cholera
+162,1,2,diarrhea
+162,1,2,severe diarrhea and vomiting
+162,1,4,replacement of the fluid and salts
+162,1,4,oral rehydration solution
+162,1,4,prepackaged mixture of sugar and salts to be mixed with water
+163,1,1,malaria
+163,1,4,antibiotics
+163,1,4,doxycycline and chloramphenical
+163,1,8,bacteria
+163,2,1,typhus
+163,2,4,antibiotics
+163,2,5,to control the rodent population
+163,2,8,infected insects
+164,1,1,cholera
+164,1,2,diarrheal
+164,1,4,Antibiotics
+164,1,7,within 5-6 days
+164,1,8,cholera organism
+164,2,1,cholera
+164,2,2,watery diarrhea
+164,2,3,Pathological strains
+164,2,7,last for only several days
+164,2,8,V. cholerae
+164,3,1,cholera
+164,3,8,bacterial
+164,3,8,Lieberkühn
+164,1,1,cholera
+164,1,4,conventional treatments
+164,1,6,1831
+164,1,1,malaria
+164,1,2,"fever, anemia"
+164,1,8,mosquito
+165,1,1,malaria
+165,1,2,diarrhea
+165,1,4,Antibiotics
+165,1,8,bacteria
+165,1,1,malaria
+165,1,4,antimalarial drugs
+165,1,8,malaria parasite
+166,1,1,malaria
+166,1,2,meningococcal meningitis
+166,1,2,S. pneumoniae
+166,1,4,therapy
+166,1,7,for 10 to 14 days
+166,1,7,at least 21 days
+166,1,7,7 days
+166,1,2,L. monocytogenes
+166,1,1,malaria
+166,1,4,ACT A-B*
+166,1,7,four-day 
+166,2,1,cholera
+166,2,4,administration of salt pills
+166,2,4,intravenous fluid
+167,1,1,malaria
+167,1,2,for severe dehydration and for mild to moderate dehydration
+167,1,4,erythromycin and trimethoprim-sulphamethoxazole (TMP-SMX)
+167,1,4,sulphamethoxazole
+167,1,7,December 1991 to June 1992
+167,1,7,for five days
+167,1,1,cholera
+167,1,3,clinical trial
+167,1,4,tetracycline therapy
+311,1,5,"  Avoid areas where you might encounter rat fleas or lice, Good sanitation, public health measures"
+311,1,8,"  rat fleas, lice"
+311,2,5,"  Bathing, Boiling clothes, avoiding infested clothing for at least 5 days, Using insecticides"
+311,2,6,  5 days
+311,2,7,  at least 5 days
+311,2,8,  lice
+311,3,1,"  Endemic typhus, jail fever"
+311,3,8,"  rats, fleas"
+311,4,1,  Murine typhus
+311,4,7,  during the summer and fall
+311,4,8,"  rats feces, fleas, cats, opossums, raccoons, skunks"
+312,1,1,  cholera
+312,1,5,"  vaccine, only water that has been boiled, water that has been chemically disinfected, bottled water"
+312,1,7,  a few months
+313,1,1,  Cholera
+313,1,5,"  Drink and use safe water, Wash your hands often with soap and safe water, Use latrines or bury your feces (poop), Cook food well, peel fruits and vegetables, Clean up safely"
+313,2,5,"  Dukoral, ShanChol"
+313,2,7,  Currently
+314,1,1,  cholera
+314,1,5,"  providing clean water and proper sanitation, Health education, good food hygiene, hand-washing with soap after defecation and before handling food or eating, safe preparation and conservation of food "
+314,2,1,  cholera
+314,2,5,"  Provision of safe water, proper sanitation, food safety, Health education"
+314,3,1,"  cholera, epidemic cholera"
+314,4,1,  Cholera
+314,4,2,"  watery diarrhea, vomiting"
+315,1,1,  Ebola
+315,1,5,"  Avoiding the Infection, Protecting Yourself From Infection, Taking Action if You Are Infected"
+316,1,1,  Ebola
+316,1,5,"  Avoid any contact with someone you believe is infected, use protective gear such as face masks and gloves"
+316,1,8,  Ebola virus
+316,2,1,  ebola
+316,2,5,"  wearing protective suits that cover their entire bodies, hosing down areas infected patients"
+317,1,5,"  face shields, masks, gloves, gowns, full-body suit"
+318,1,1,  Ebola
+318,1,5,"  PAPR or N95, higher respirator"
+318,1,8,  Ebola virus
+319,1,1,"  Ebola, Marburg"
+319,1,7,  initial
+319,1,8,"  Ebola virus, Marburg virus"
+319,2,1,"  Ebola, Marburg"
+319,2,8,"  Ebola virus, Marburg virus"
+352,1,1,  Malaria
+352,1,2,"  build-up of toxins and debris in the blood,fever,chills,nausea,aches"
+352,1,6,  1-4 weeks
+352,1,7,  After a period of 1-4 weeks
+352,1,8,"  bite of an infected mosquito,malaria parasite"
+352,2,1,"  malaria,Plasmodium falciparum"
+352,2,2,"  reduced blood flow,oxygen deprivation in the organs"
+353,1,1,"  malaria,severe malaria anemia,cerebral malaria"
+353,1,2,"  extremely low red blood cell numbers,deep coma,infected erythrocyte sequestration in the placenta"
+353,2,1,"  malaria,anemia"
+353,2,2,"  fever,shivering,pain in the joints,headache,repeated vomiting"
+354,1,1,  malaria
+354,1,2,  damage to the blood cells
+355,1,1,  malaria
+355,1,8,"  Plasmodium,bite of an infected female mosquito"
+355,2,1,  malaria
+355,2,8,"  malaria parasite,Plasmodium"
+356,1,8,"  Rickettsiae, tick bite, damaged skin from the feces of lice or fleas, R. rickettsii"
+356,2,8,  Rickettsia
+357,1,2,"  fever (40-40.5°C [104-105°F]), ocular pain, wet cough, malaise, injected conjunctiva, Centrifugal macular rash on the trunk, Enlargement of the spleen, cough, delirium, Pneumonitis, encephalitis, Central nervous system (CNS), pulmonary, cardiac involvement, acute renal failure, shock, disseminated intravascular coagulation (DIC)"
+357,1,7,  more than 98% of the time
+357,1,8,  chigger bite
+357,2,2,"  Rash, Lymph nodes may be enlarged, delirium, stupor, constipation, pneumonia, enlargement of the liver or spleen (splenomegaly), kidney damage (renal failure), slowed heartbeat (bradycardia)"
+357,3,1,  scrub typhus
+357,3,2,  Nodes may be enlarged
+357,4,1,  Typhus
+357,4,3,"  Blood tests (serologic tests), complement fixation, immunofluorescence"
+357,4,6,  5 to 12 days
+357,4,7,  5 to 12 days after
+357,4,8,  Rickettsia prowazekii
+357,5,1,  Typhus
+357,5,8,  Rickettsia
+358,1,1,  cholera
+358,1,2,  severe diarrhea
+358,1,8,  casual contact with an infected person
+358,2,2,"  Rapid heart rate, Loss of skin elasticity, Dry mucous membranes, Low blood pressure, Thirst, Muscle cramps"
+359,1,1,  Cholera
+359,1,2,"  watery diarrhea, vomiting, seizures, kidney failure"
+360,1,1,  hog cholera
+360,1,8,  hog cholera virus
+361,1,1,  Cholera
+361,1,2,"  rapid onset of copious, smelly diarrhea, signs of dehydration"
+361,2,1,  Cholera
+361,2,8,  Vibrio cholerae
+361,3,1,  Cholera
+361,3,3,"  examination of stool for rice-water appearance, presence of V. cholerae-like organisms microscopically"
+361,3,8,  V. cholerae
+362,1,1,  Ebola
+362,1,2,  kidney and respiratory failure
+362,1,4,"  experimental drug ZMapp, plasma transfusion from the blood"
+362,1,6,  Saturday
+362,1,7,  On Saturday
+363,1,1,  Ebola hemorrhagic fever
+363,1,2,"  the endothelial cells, hypovolemic shock, dramatic decrease in blood pressure"
+363,2,2,"  fever, diarrhea,dark or bloody feces, vomiting blood, red eyes due to distention and hemorrhage of sclerotic arterioles, petechia, maculopapular rash, purpura, gastrointestinal bleeding from the mouth and rectum, Internal and external hemorrhage from orifices, bleeding in the brain"
+363,2,7,  initial
+364,1,2,"  fever, gastrointestinal bleeding"
+364,1,6,"  1 September, four days, three days, September"
+364,1,7,"  after, On 1 September, four days later, three days after, end of September"
+364,2,1,  Ebola
+364,2,8,"  virus's RNA, glycoprotein"
+364,3,1,  Ebola
+364,3,8,"  Ebola viruses, toothy leviathans"
+364,4,1,  Ebola
+364,4,6,1976
+364,4,7,  in 1976
+364,4,8,"  Sudan ebolavirus, Zaire ebolavirus"
+365,1,1,"  Epidemic typhus, typhus"
+365,1,2,"  fever, headache, weakness, muscle aches, rash, swelling in theheart muscle or brain (encephalitis)"
+365,2,1,  Scrub typhus
+365,2,2,"  fever, headache, muscle aches and pains, cough, abdominalpain, nausea and vomiting, diarrhea, rash, encephalitis, pneumonia, swelling of the liver and spleen"
+366,1,2,"  gastroenteritis, diarrhea, bacteremia"
+367,1,1,  Cholera
+367,1,8,"  choleragen, cholera enterotoxin"
+390,1,1,  malaria
+390,1,4,"  mefloquine, combination of quinine sulfate and clindamycin"
+390,1,6,"  7 days, 3 days"
+390,1,7,"  for 7 days, for 3 days"
+390,1,8,  chloroquine-resistant P. falciparum 
+391,1,1,  Malaria
+391,1,2,"  fever, chills, sweating"
+391,1,6,  two weeks
+391,1,7,"  within two weeks, period of years, After"
+392,1,1,  Malaria
+392,1,4,  Doxycycline
+392,1,6,  7 days
+392,1,7,"  every 12 hours, Treatment course (= 7 days)"
+392,2,1,  Malaria
+392,2,4,  Clindamycin
+392,2,6,  7 days
+392,2,7,"  every 8 hours, Treatment course (= 7 days)"
+392,3,1,  Malaria
+392,3,4,  treated and monitored in hospital
+392,3,8,  Plasmodium falciparu
+392,4,1,  malaria
+392,4,4,"  anti-malarial medicines, Quinine, chloroquine, artesunate"
+392,5,1,  malaria
+392,5,2,  fever
+392,5,6,"  1-2 days, 2-3 days"
+392,5,7,"  1-2 days after, every 2-3 days"
+393,1,1,  epidemic typhus
+393,1,2,  fever
+393,1,4,"  antibiotics, single 200 mg dose of doxycycline"
+393,1,6,"  five days, 2-4 days"
+393,1,7,"  for five days, for 2-4 days, after"
+394,1,1,"  scrub typhus, malaria, dengue"
+394,1,4,  antibiotics
+394,1,7,  within 48 hours
+394,2,1,"  scrub typhus, Q fever, murine typhus, jaundice, bradycardia"
+394,2,4,  doxycycline
+394,2,6,2004
+394,2,7,"  in a 2004 report, more than 48 hours, within 48 hours"
+395,1,2,  fever
+395,1,4,  Adequate antibiotic therapy
+395,1,6,"  2-3 days, 10 days"
+395,1,7,"  early in the first week, within 24-72 hours, after, 2-3 days after, at least 10 days"
+395,2,4,  Antibiotic treatment
+395,2,6,"  2-3 days, 10 days"
+395,2,7,"  2-3 days after, at least 10 days"
+395,3,1,  Rickettsialpox
+395,3,4,  Antibiotics
+395,4,4,  Chloramphenicol
+400,1,8,"  Ebola virus, breast milk and semen"
+400,2,1,  Ebola
+400,2,6,  12 months
+400,2,7,  for 12 months
+400,2,8,  Ebola virus
+401,1,1,  Ebola
+401,1,6,  10 years
+401,1,7,  at least 10 years
+402,1,1,  malaria
+402,1,2,"  shivering with fever, chills, headache, myalgia"
+402,1,4,  dose of halofantrine
+402,1,6,  24 November 1994
+402,1,7,"  On 24 November 1994, around 6 pm, On day 3"
+402,2,6,"  6 weeks, 3 months"
+402,2,7,"  On day 15, after 6 weeks, A month after, lasted 3 months"
+403,1,1,"  malaria, Ebola"
+403,1,7,  late in the evenings
+403,1,8,  mosquitoes
+403,2,1,  Ebola
+403,2,2,"  fever, achiness"
+403,2,6,  Wednesday
+396,1,2,"  diarrhea, severe cholera"
+396,1,4,  antibiotic
+396,1,7,  within 48 hours
+396,1,8,  V cholerae 
+396,2,1,  antibiotic
+396,2,2,"  vomiting, diarrhea"
+396,2,4,"  single-dose therapy with tetracycline, doxycycline, furazolidone, or ciprofloxacin"
+396,2,6,  3-5 days
+396,2,7,"  in 4-6 h, for 3-5 days"
+396,3,1,  cholera
+396,3,2,  diarrhea
+396,3,4,"  Antimicrobial therapy, fluid therapy, antibiotic"
+396,3,7,  within 48 hours
+396,3,8,  Vibrio cholerae 
+397,1,1,  cholera
+397,1,4,"  rehydration with ORS (oral rehydration salts) fluids, IV drip"
+397,1,7,"  every one to two hours, first 24 hours, After six hours or three hours"
+398,1,6,"  5 days, 7 days"
+398,1,7,"  for full 5 days, 7 days after, for 4 hours"
+399,1,1,  Cholera
+399,1,2,"  severe diarrhea, dehydration"
+399,1,8,  contaminated water
+399,2,1,  Cholera
+399,2,2,  dehydration
+399,2,4,  simple and inexpensive rehydration solution
+404,1,1,  typhus
+404,1,2,"  gastrointestinal bleeding, rupture of the intestines"
+404,1,6,  two to three weeks
+404,1,7,  take two to three weeks
+405,1,1,  cholera
+405,1,2,  diarrhea
+405,2,2,  severe dehydration
+405,2,4,  Antibiotic treatments
+405,2,6,  one to three days
+405,2,7,  for one to three days
+406,1,1,  cholera
+406,2,1,  Typhus
+406,2,2,"  fever (antipyretics), muscle aches (analgesics), Severe headaches"
+406,2,4,"  antibiotics, narcotic pain reliever"
+406,2,8,"  lice, fleas, mites"
+406,3,1,  scrub typhus
+406,3,3,"  Chest x-rays, Blood tests"
+406,4,1,  Typhus
+406,4,8,  bacteria Rickettsia
+487,1,1,cholera
+487,1,2,purging diarrhoea and copious vomiting
+487,1,2,"cramps afflicted legs, arms, abdomen and back"
+487,1,7,longer than five days and sometimes less than one
+487,2,1,typhus
+487,2,2,"headache and general pains, chills and fevers, "
+487,2,7,1833
+488,1,1,typhus
+488,1,2,headache and high temperature (fever)
+488,1,4,antibiotics
+488,1,8,germ (bacterium) Salmonella typhi
+485,1,1,Ebola
+485,1,2,"high fever, headache"
+485,1,2,"abdominal pain, diarrhea, vomiting"
+485,1,2,macular rash
+485,1,6,34639
+485,1,7,after 15 years
+485,1,8,Ebola virus
+486,1,1,Ebola
+486,1,2,"sudden onset of fever,"
+486,1,2,"feeling weak,"
+486,1,2,"muscle pain, "
+486,1,2,headaches and a sore throat
+486,1,2,"rashes, red eyes, hiccups"
+486,2,1,Ebola
+486,2,4,supportive therapy
+486,2,4,maintaining their oxygen status and blood pressure
+486,2,5,proper protective clothing
+167,2,1,cholera
+167,2,2,"mild to moderate diarrhea, like other illnesses."
+167,3,1,cholera
+167,3,2,"diarrhea nausea vomiting mild to severe dehydration"""
+167,4,1,cholera
+167,4,2,"ehydration caused by cholera is usually severe and can cause tiredness, moodiness, sunken eyes, dry mouth, shriveled skin, extreme thirst, reduced urine output, irregular heartbeat, and low blood pressure."
+168,1,1,cholera
+168,1,2,large amounts of watery diarrhea that lasts a few days.
+168,2,1,cholera
+168,2,2,profuse diarrhea and vomiting of clear fluid
+168,3,1,cholera
+168,3,2,"diarrhea is not treated, it can result in life-threatening dehydration and electrolyteimbalances"
+168,4,1,cholera
+168,4,2,watery diarrhea vomiting leg cramps The infection is often mild or without symptoms.
+169,1,1,cholera
+169,1,2,"watery diarrhea, vomiting, and leg cramps"
+169,1,7,hours
+169,2,1,cholera
+169,2,2,watery diarrhea
+170,1,1,cholera
+170,1,2,"back pain. Pain in the low back can relate to the bony lumbar spine, discs between the vertebrae, ligaments around the spine "
+170,1,7,initial
+171,1,1,cholera
+171,1,2,"dehydration including heat exposure, prolonged vigorous exercis"
+171,1,7,initial
+171,2,1,cholera
+171,2,2,"Cramping, abdominal pain, and the sensation of rectal"
+171,2,7,initial
+171,3,1,cholera
+171,3,2,Low blood pressure
+171,4,1,cholera
+171,4,2,"profuse watery diarrhea, vomiting, and leg cramps. In these people, rapid loss of body fluids leads to dehydration and shock"
+171,4,7,within hours
+172,1,1,cholera
+172,1,2,"Diarrhea. Cholera-related diarrhea comes on suddenly and may quickly cause dangerous fluid loss — as much as a quart (about 1 liter) an hour Nausea and vomiting. Occurring especially in the early stages of cholera, vomiting may persist for hours at a time. Dehydration"
+173,1,1,cholera
+173,1,2,Dry mucus membranes or dry mouth Dry skin Excessive thirst Glassy or sunken eyes Lack of tears Lethargy Low urine output
+174,1,1,cholera
+174,1,2,"Nausea Rapid dehydration Rapid pulse (heart rate) Sunken ""soft spots"" (fontanelles) in infants Unusual sleepiness or tiredness Vomiting Watery diarrhea that starts suddenly and has a ""fishy"" odor"
+174,2,1,cholera
+174,2,2,"profuse watery diarrhea, sometimes described as “rice-water stools, vomiting rapid heart rate loss of skin elasticity dry mucous membranes low blood pressure thirst muscle cramps restlessness or irritability"
+174,2,7,first
+175,1,1,cholera
+175,1,2,"acute renal failure, severe electrolyte imbalances and coma"
+175,1,7,hours
+175,2,1,cholera
+175,2,2,watery diarrhea
+879,1,1,ebola
+879,1,6,march 23rd 2014
+880,1,1,ebola
+880,1,6,march 23rd 2014
+880,1,7,began
+881,1,1,ebola
+881,1,6,mid march 2014
+881,1,7,began
+881,2,1,ebola
+881,2,6,14-Mar
+881,2,7,first 
+881,3,1,ebola
+881,3,6,18-Mar
+881,3,7,first 
+881,4,1,ebola
+881,4,6,21-Mar
+881,4,7,first 
+881,4,8,ebola zaire
+881,5,1,ebola
+881,5,6,27-Mar
+881,5,7,first 
+882,1,1,hemorrhagic fever
+882,1,6,"march 19,2014"
+882,1,7,begins
+882,2,1,ebola
+882,2,6,27-Jul
+883,1,1,ebola
+883,1,6,14-Mar
+883,1,7,started
+884,1,1,ebola
+884,1,6,14-Mar
+884,1,7,began
+884,1,8,ebola virus
+885,1,1,ebola
+885,1,6,21-Mar-14
+885,1,7,began
+885,1,8,disease
+885,2,1,ebola
+885,2,2,"diarrhoea, vomiting, and severe dehydration"
+885,2,6,14-Jan
+885,3,1,lassa fever
+885,3,6,13-Mar-14
+885,3,7,first 
+885,3,8,disease
+886,1,1,ebola
+886,1,6,sept.24
+886,1,7,first 
+887,1,1, hemorrhagic fever
+887,1,6,18-Mar
+887,2,1,ebola
+887,2,6,24-Mar
+887,3,1,ebola
+887,3,6,march 25 2014
+887,3,7,first 
+887,4,1,ebola
+887,4,6,31-Mar
+887,4,7,first 
+887,5,1,ebola
+887,5,6,25-Jul
+887,5,7,first 
+888,1,1,ebola
+888,1,6,25-Jul
+889,1,1,hemorrhagic fever
+889,1,6,8-Aug
+890,1,1,ebola
+890,1,8,bodily fluids
+890,1,8,blood
+891,1,1,ebola
+891,1,6,14-Mar
+891,1,7,since
+892,1,1,ebola
+892,1,7,until
+141,1,1,ebola
+141,1,4,therapy
+141,1,8,disease
+142,1,4,immunisations
+142,2,3,Bavarian Nordic
+142,2,7,few months
+142,3,1,ebola
+142,3,4,antibodies
+142,4,4,merck vaccines
+142,4,4,immunations
+142,4,8,disease
+144,1,1,ebola
+144,1,6,14-Mar
+144,1,8,disease
+144,2,6,23-Mar-14
+144,2,8,disease
+145,1,1,ebola
+145,1,2,fever
+145,1,2,vomiting
+145,1,2,illness
+145,1,8,ebola virus
+145,1,6,26-Dec-13
+146,1,1,ebola
+146,1,6,1976
+146,1,6,decemner 2013
+146,1,8,disease
+147,1,1,ebola
+147,1,6,14-Nov
+147,1,6,14-Jun
+147,1,1,cholera
+148,1,1,ebola
+148,1,6,2014
+148,1,8,ebola virus
+148,2,1,ebola
+148,2,6,2014
+148,2,8,ebola virus
+148,3,1,ebola
+148,3,6,1976
+148,3,6,21-Dec
+148,3,8,ebola virus disease
+148,4,1,ebola
+148,4,6,29-Oct
+148,4,6,2014
+148,4,8,ebola virus
+148,5,1,ebola
+148,5,6,1976
+148,5,7,first
+148,5,8,ebola virus
+149,1,1,ebola
+149,1,4,investigational product
+149,2,1,hemorrhagic fever
+149,2,4,supportive care
+149,2,4,intravenous fluids
+149,2,4,oxygen
+149,2,8,virus
+150,1,1,ebola
+150,1,4,experimental
+151,1,1,ebola
+151,1,4,brincidofovir
+151,1,7,first
+151,2,1,ebola
+151,2,4,brincidofovir
+151,2,6,Oct. 6
+151,2,8,virus
+181,1,1,ebola 
+181,1,6,24-Aug
+181,1,6,2014
+181,1,6,11-Aug
+181,1,8,bush animal
+181,2,1,ebola
+181,2,6,2-Dec
+181,2,6,2012
+181,2,3,CDC's Viral Special Pathogens
+181,2,8,ebola virus
+181,3,1,Ebola Hemorrhagic Fever
+181,3,3,cdc
+181,3,6,28-Jul
+181,3,6,2012
+181,3,8,ebola virus
+181,4,1,Ebola Hemorrhagic Fever
+181,4,3,blood sample
+181,4,6,14-May
+181,4,6,6-May
+181,4,6,2011
+181,4,3,CDC
+181,4,8,ebola virus
+181,5,1,ebola
+181,5,3,cdc
+181,5,6,25-Oct
+181,5,6,2008
+181,5,6,1989
+181,5,6,1990
+181,5,6,1996
+181,5,7,first
+181,5,8,ebola-Reston virus
+182,1,1,Hemorrhagic Fever
+182,1,4,IgG EBO antibodies
+182,2,1,ebo
+182,2,2,clinical
+182,2,4,transfused
+182,2,8,disease
+182,3,1,ebola
+182,3,6,1995
+182,3,6,1976
+182,3,6,Feb-96
+182,4,4,palliative
+182,4,2,cardiovascular collapse
+182,4,2,renal
+182,4,5,protective equipment
+182,4,8,ebo
+182,5,1,ebo
+182,5,4,transfusions
+182,5,8,blood
+183,1,1,ebola
+183,1,4,developing antibodies
+183,1,3,reverse transcriptase-polymerase chain reaction
+183,1,3,PBMC
+183,1,8,ebola viral RNA
+183,2,1,Ebola haemorrhagic fever
+183,2,3,RT-PCR
+183,2,8,IgM antigen
+183,3,1,ebola
+183,3,3,RT-PCR
+183,3,8,ebola rna
+184,1,1,Ebola haemorrhagic fever
+184,1,2,fever
+184,1,3,differential diagnosis
+184,1,8,ebola virus
+184,2,3,RT-PCR1
+184,2,8,viral antigen
+918,1,1,ebola
+918,1,6,21 days
+918,1,7,long
+918,1,8,ebola virus
+919,1,1,ebola
+919,1,6,21 days
+919,1,8,ebola virus
+919,2,1,ebola
+919,2,6,21 days
+919,2,8,virus
+919,3,1,ebola
+919,3,6,21
+919,3,8,virus
+919,4,1,ebola
+919,4,6,21
+919,4,8,ebola virus
+920,1,1,ebola
+920,1,6,21 days
+921,1,1,ebola
+921,1,6,21 days
+921,1,8,infected
+921,2,1,ebola
+921,2,6,21 days
+921,2,7,last exposure
+921,2,7,three weeks
+921,3,1,ebola
+921,3,6,21
+921,3,2,sick
+921,4,1,ebola
+921,4,6,21 days
+921,4,7,short
+542,1,1,Ebola
+542,1,8,Ebola virus
+543,1,1,Ebola
+543,1,8,Ebola virus
+544,1,1,Ebola
+544,1,2," blood over-coagulates,blood vessels become leaky,bleeding,intravascular coagulation"
+544,1,6,liver
+544,2,1,Ebola
+544,2,2,"blood pressure plummets, vital organs begin to fail, the patient goes into shock and dies"
+544,2,6,"kidney,liver"
+544,2,8,Ebola virus
+545,1,1,Ebola
+545,1,2,"fever, sore throat, muscle pains and headache,vomiting, diarrhea, rash, impaired kidney and liver function,bleeding from the eyes, ears, nose or mouth"
+545,1,6,"throat,muscle,kidney,liver,eyes,ears,nose,mouth."
+546,1,1,Ebola
+546,1,2,"organ failure,fever,internal bleeding, diarrhea and vomiting"
+546,1,6,"liver cells,"
+546,2,1,Ebola
+546,2,8,Ebola Reston
+546,3,1,Ebola
+546,3,8,Ebola Reston
+547,1,1,Ebola
+547,1,2, blood clotting and hemorrhaging
+547,1,6,"every organ and tissue, except the bones and skeletal muscles"
+547,1,8,Ebola virus
+548,1,1,Ebola
+548,1,2,bleeding.
+548,1,6,"lymph nodes, spleen and liver"
+566,1,1,Ebola
+566,1,2, Holes
+566,1,6,"kidneys, gonads, spleen,liver"
+566,1,8,Ebola virus
+567,1,1,Ebola
+567,1,2," nausea, vomiting, diarrhea, cough, chest pain, and sore throat,fever, headache,body aches."
+567,1,6,"chest,throat,head,lymph glands."
+567,1,8,Ebola virus
+568,1,1,Ebola
+568,1,2,"diarrhea, red eyes,vomiting blood, gastrointestinal bleeding"
+568,1,6,"mouth,rectum,brain,eyes,nose"
+568,1,8,Ebola virus
+569,1,1,Ebola
+569,1,2, decreases blood supply
+569,1,6,"liver,brain,lungs,kidneys,intestines,testicles"
+569,1,8,Ebola virus
+569,2,1,Ebola
+569,2,8,Ebola virus
+569,3,1,"EVD,malaria, cholera, typhoid fever, meningitis"
+569,3,8,bats or with a living or dead animal
+570,1,1,Ebola
+570,1,8,Ebola virus
+571,1,1,Ebola
+571,1,3,"twice daily temperature,symptom checks"
+572,1,1,Ebola
+572,1,8,Ebola virus
+573,1,1,Ebola
+573,1,8,Ebola virus
+574,1,1,Ebola
+574,1,8,Ebola virus
+575,1,1,Ebola
+575,1,8,Ebola virus
+576,1,2,fever
+577,1,1,Ebola
+578,1,1,Malaria
+578,1,3,monitoring malaria control activities
+579,1,1,Malaria
+579,1,5, malaria control as programs progressively reduce transmission
+580,1,1,Ebola
+580,1,8,Ebola virus
+581,1,1,Malaria
+581,1,8,Ebola virus
+582,1,1,Malaria
+583,1,1,Malaria
+583,2,1,Malaria
+584,1,1,Malaria
+585,1,1,Scrub typhus
+585,1,8,O. tsutsugamushi
+586,1,1,Typhus
+586,1,8,disease-bearing lice
+587,1,1,Scrub typhus
+587,1,2," low body temperature, rapid pulse rate, presence of crepitation, low percentage of lymphocyte, low serum albumin,"
+616,1,1,Ebola
+616,1,8,Ebola virus
+617,1,1,Typhus
+618,1,1,Typhus
+619,1,1,Typhus
+619,2,1,Typhus
+620,1,1,"Scrub Typhus,dengue,Malaria"
+620,1,3,"headache, high fever and rash"
+621,1,1,"Murine typhus,endemic typhus,Mexican typhus,flea-borne typhus"
+622,1,1,"Endemic typhus,typhoid"
+622,1,2,"malaise, headache, and myalgia"
+623,1,1,Ebola
+624,1,1,Ebola
+625,1,1,Ebola
+625,1,2, 21-day incubation period
+626,1,1,Ebola virus disease
+626,2,1,Ebola
+627,1,1,Ebola
+628,1,1,Ebola
+628,2,1,Ebola
+628,3,1,Ebola
+629,1,1,Ebola
+629,2,1,Ebola
+630,1,1,"Hepatitis, Typhoid and Cholera"
+631,1,1,Ebola
+631,2,1,EVD
+632,1,1,Ebola
+632,1,8,"Ebola virus,Zaire virus"
+632,2,1,Ebola
+632,2,4,"blood transfusions,drugs"
+632,3,1,Ebola Virus Disease
+633,1,1,Ebola
+634,1,1,Ebola
+634,1,5,Drugs
+635,1,1,Ebola
+635,1,2,"fever, nausea, pain,fatigue"
+636,1,1,Ebola
+636,1,2,"Fever, diarrhea"
+637,1,1,Ebola
+638,1,1,Ebola
+638,1,2,sicker
+638,2,1,Ebola
+638,2,2,Fever severe diarrhea vomiting dehydration
+638,2,6,Blood kidney liver
+639,1,1,Ebola
+639,2,1,Ebola
+640,1,1,Ebola
+640,1,8,Ebola virus
+664,2,1,Ebola
+664,2,2,joint and vision problems.
+664,2,5,good supportive care and the patient’s immune response
+665,1,1,Ebola
+666,1,1,Ebola
+666,2,1,Ebola
+675,1,1,Ebola
+675,1,2,"Mild-fever Nausea, Diarrhea, Vomiting, Bleeding"
+675,1,4,ZMapp
+676,1,1,Ebola
+677,1,1,Ebola
+677,1,6,Blood vessels
+677,1,8,"Ebola virus, Marburg virus"
+677,2,1,Ebola
+677,3,1,Ebola
+677,3,4,Supportive care and Patient's Immune system
+677,3,5,Develop immune system that last atleast 10 years
+677,3,6,joint and vision problems.
+678,1,1,Ebola
+678,1,3,CPR
+678,2,1,Ebola
+678,2,4,"Intubate, Supply dialysis"
+679,1,1,Ebola
+680,1,1,Ebola
+680,1,4,Care
+681,1,1,Ebola
+681,2,1,Ebola
+681,3,1,Ebola
+681,3,2,"abdominal pain, severe headache, dizziness and nausea"
+682,1,1,Ebola
+682,1,2," myalgia, diarrhoea and vomiting, pleuritic pain, shock, bleeding tendency"
+683,1,1,Ebola
+683,1,2," fever, vomiting"
+684,1,1,Ebola
+684,1,4," oral rehydration therapy, intravenous fluids"
+684,2,1,Ebola
+684,2,5,"avoiding direct contact with infected people, regular hand washing using soap and water,  protective clothing"
+684,2,8, Bush meat
+685,1,1,"EVD, Ebola Virus Disease,  Ebola Haemorrhagic Fever"
+685,1,2,"fever, intense weakness, muscle pain, headache,  sore throat,vomiting, diarrhoea, rash, impaired kidney ,liver function,internal bleeding, external bleeding"
+685,1,5,"prevention of needle sticks, sharps injuries, safe phlebotomy, hand hygiene, rational use of personal protective equipment, regular and rigorous environmental cleaning, decontamination of surfaces and equipment, safe management of soiled linen and healthcare waste."
+686,1,1,"Ebola, Lassa, Marburg, Machupo, Junin,  Hanta, plague, tuberculosis, anthrax, cholera, typhoid, typhus, malaria,  viral hemorrhagic fevers"
+687,1,1," Typhus,  Spanish Flu,TB, Cholera, Malaria,  AIDS"
+688,1,1, Malaria
+688,1,2,"  fever, chills, flu-like illness"
+688,1,8, female Anopheles mosquito
+704,1,2," fever, headache, malaise, nausea , vomiting , maculopapular, vesicular, petechial rash , eschar , myalgia , febrile illness"
+704,1,3," minimize exposure to infectious arthropods (including lice, fleas, ticks, mites) , minimize exposure to animal reservoirs, particularly dogs and cats , insect  , tick repellents  , insecticides ,acaricides , wearing protective clothing"
+704,2,1,"Rickettsioses , typus"
+704,2,5,"minimize exposure to infectious arthropods (including lice, fleas, ticks, mites) , minimize exposure to  animal reservoirs,  minimize exposure with  dogs and cats ,insecticides , acaricides , wearing protective clothing , endemic area ,vector-infested areas"
+704,3,1,"Rickettsioses , typus"
+704,3,4,"doxycycline. Chloramphenicol, azithromycin, fluoroquinolones, rifampin"
+704,4,1,Typus
+704,4,4,"Doxycycline , Tetracycline , Chloramphenicol , Tetracycline , intravenous fluids and oxygen"
+705,1,1,Ebola
+705,1,5," screened , screening"
+706,1,1,Ebola
+706,2,1,Ebola
+706,2,2,"saliva, sweat, semen, blood , physical contact"
+706,2,5,"  isolate patient , quarantine patient , check point at airport"
+706,3,1,Ebola
+706,3,4," Isolate the patient, maintain blood parameters, maintain blood pressure"
+706,3,5,  ICU set-up
+707,1,1,Ebola
+707,1,4," supporting therapy- hydrating the patient, monitoring their oxygen status and BP,  controlling infections"
+708,1,1, Ebola
+708,1,5,"Pre-boarding scrutiny , quarantine"
+709,1,1, Ebola hemorrhagic fever
+709,2,1," dengue , Ebola"
+709,3,1, Ebola
+709,3,2," fever, headache, muscle pain, fatigue, diarrhea, vomiting, stomach pain, or unexplained bruising or bleeding"
+709,3,5,"Wash hands , use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids of any person , Do not touch the body of someone who has died from Ebola , Do not touch bats and nonhuman primates , their blood and fluids and do not touch , eat raw meat prepared from these animals"
+709,4,1, Ebola
+709,4,5," Assessing the ability of Ebola-affected countries and airports to conduct exit screening , Assisting with development of exit screening protocols,Training staff on exit screening protocols and appropriate PPE use, Training in-country staff to provide future trainings."
+709,5,1, Ebola
+709,5,5," avoiding contact with the blood , avoiding contact of body fluids of people who are ill with Ebola"
+709,6,1," Ebola ,  Ebola haemorrhagic fever"
+709,6,2,  wild animals
+709,6,5," Community engagement ,  case management, surveillance and contact tracing, a good laboratory service, safe burials , social mobilisation"
+710,1,1,Ebola
+710,1,8,Zaire virus
+711,1,1, Ebola
+711,1,2,"   fever, severe internal bleeding"
+711,1,5," personal protective gear, medicines, supplies they need to contain the virus."
+711,1,8,  bodily fluids such as sweat and blood and saliva remains infectious even after death.
+711,2,1, Ebola
+711,2,2," fever, headache, muscle pain, fatigue, diarrhea, vomiting, stomach pain, or unexplained bruising or bleeding"
+711,2,5,"notify CDC of ill travelers on a plane , evaluation of ill travelers,  isolation and transport to a medical facility if needed"
+711,3,1, Ebola
+712,1,1, Ebola
+712,1,5," wash your hands with soap and water ,wash hand with an alcohol-based hand sanitizer , avoid contact with blood and body fluids , Do not handle items that may have come in contact with an infected person?s blood or body fluids (such as clothes, bedding, needles, and medical equipment),Avoid funeral or burial rituals that require handling the body of someone who has died from Ebola,Avoid contact with bats and nonhuman primates or blood, fluids, avoid raw meat prepared from these animals,Avoid facilities in West Africa"
+713,1,1, Ebola
+713,1,5," Routine immunization services, vaccination campaigns (NIDs and SIAs) and vaccine-preventable disease surveillance , isolate and report any suspected cases"
+713,2,1, Ebola
+713,2,5," Routine immunization services, vaccination campaigns (NIDs and SIAs) and vaccine-preventable disease surveillance , isolate and report any suspected cases"
+713,3,1, Ebola
+713,3,5," Hand hygiene , hand washing with soap , Gloves should be worn and changed for each person vaccinated , DO NOT VACCINATE ANYONE SUSPECTED OF EVD OR EXPOSED TO EVD7 , ?one-time/one-person only? auto-disable syringes , strict safe injection and waste disposal practices"
+714,1,1, Ebola
+714,1,2," human-to-human transmission , direct contact through broken skin or mucous membranes with the blood, or other bodily fluids or secretions (stool, urine, saliva, semen) of infected people"
+714,1,5,wearing personal protection equipment
+714,2,1," Ebola virus disease ,  Ebola haemorrhagic fever"
+714,3,1," Ebola virus disease ,  Ebola haemorrhagic fever"
+714,3,8, Pteropodidae
+790,2,1, Ebola
+790,2,5,"   review your health insurance plan to determine what medical services it would cover during your trip. Consider purchasing travel health and medical evacuation insurance , Practice careful hygiene. For example, wash your hands frequently with soap and water or use an alcohol-based hand sanitizer, Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk and semen) , Do not handle items that may have come in contact with an infected person?s blood or body fluids , Avoid direct contact with dead bodies, including participating in funeral or burial rituals , Avoid contact with animals (such as bats or monkeys) or with raw or undercooked meat ,Do not eat or handle bushmeat (wild animals hunted for food)"
+790,3,1, Ebola
+790,3,5,  clinicians should isolate the patient pending diagnostic testing
+790,4,1, Ebola
+790,4,5,"   medical evaluation and testing for Ebola, monitoring, or travel restrictions"
+790,4,8,  blood or body fluids
+791,1,1, Ebola
+791,1,5,"   avoid nonessential travel , avoiding contact with the blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of people who are sick with Ebola"
+791,1,8,  blood or body fluids
+791,2,1, Ebola
+791,2,5,"   up-to-date on routine vaccines, Schedule a visit with a travel medicine provider,  Put together a travel health kit containing items such as over-the-counter medications, a thermometer, alcohol-based hand sanitizer, and basic first aid items , ensure that your organization will be providing you with personal protection equipment (PPE) such as masks, gloves, gowns, and eye protection"
+791,3,1, Ebola
+791,3,5,"   Check your health insurance plan , ensure you are covered for healthcare abroad in the event of illness , Ask your organization about their medical evacuation plans , purchase travel health insurance and medical evacuation insurance ,  check the coverage limits for evacuation insurance"
+791,4,1, Ebola
+791,4,5,"   Practice careful hygiene , wash your hands with soap and water or use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of people who have Ebola , Do not handle items that may have come in contact with an infected person?s blood or body fluids."
+791,4,8,"  direct, unprotected contact with the blood or body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of an infected symptomatic person, contact with the body of someone who has died from Ebola, and exposure to objects (such as needles) , infected blood or other body fluids and tissues."
+791,5,1, Ebola
+791,5,5,"   Avoid direct contact with the body of someone who has died from Ebola, including participating in funeral and burial rituals , Avoid contact with animals (such as monkeys or bats) or with raw or undercooked meat. , Do not eat or handle bushmeat (wild animals hunted for food). , Avoid hospitals in West Africa where Ebola patients are being treated. , Report any potential unprotected Ebola exposure or illness promptly following your organization's reporting procedures."
+791,5,8,"  direct, unprotected contact with the blood or body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of an infected symptomatic person, contact with the body of someone who has died from Ebola, and exposure to objects (such as needles) , infected blood or other body fluids and tissues."
+791,6,1, Ebola
+791,7,1, Ebola
+791,7,2,"  severe headache, muscle pain, vomiting, diarrhea, stomach pain, or unexplained bleeding or bruising."
+791,7,5,"  Take your temperature every morning and evening ,"
+791,8,1,Ebola
+791,8,8,Ebola virus
+792,1,1, Ebola
+792,1,5,  take great care with hygiene and food products and to avoid being in crowded public places
+793,1,1, Ebola
+793,1,5,"  mindful of hygiene, avoid crowded places ,  refrain from consuming meat products."
+794,1,1, Ebola
+794,1,5,  avoiding contact with blood and body fluids of people who are ill with Ebola.
+795,1,1, Ebola
+795,1,5,"  avoid all nonessential travel , avoiding contact with the blood and body fluids of people who are sick with Ebola."
+795,2,1, Ebola
+795,2,2,  direct contact with the blood or other body fluids of a sick person
+795,2,5,  avoiding sick people and hospitals where patients with Ebola are being treated.
+795,3,1, Ebola
+795,4,1, Ebola
+795,4,5,"   CDC has staff working 24/7 at 20 Border Health field offices located in international airports and land borders , CDC staff are ready 24/7 to investigate cases of ill travelers on planes and ships entering the United States"
+796,1,1, Ebola
+796,1,2," high fever, stomach pains, diarrhoea, rash or bleeding"
+796,1,5,"    practice frequent hand washing (e.g. after going to the toilet, or when hands are soiled); avoid direct contact with blood, secretions or other body fluids of infected living or dead persons or animals, as well as environments that have become contaminated with these infectious fluids such as soiled clothing, bed linen, or used needles"
+797,1,1, Ebola
+797,1,5,"Practice careful hygiene. Avoid contact with blood and body fluids , Do not handle items that may have come in contact with an infected person's blood or body fluids , Avoid funeral or burial rituals that require handling the body of someone who has died from Ebola , Avoid contact with animals or with raw meat"
+797,2,1, Ebola
+797,2,2," fever, headache, achiness, sore throat, diarrhea, vomiting, stomach pain, rash, or red eyes"
+797,2,5,"Avoid hospitals where Ebola patients are being treated , Seek medical care immediately , Limit your contact with other people when you travel to the doctor. Do not travel anywhere else , Pay attention to your health after you return."
+797,3,1,Ebola
+797,3,2," bedding, clothing"
+797,3,8,Ebola virus
+797,4,1, Ebola
+797,4,5,"Wear protective clothing, including masks, gloves, gowns, and eye protection. , Practice proper infection control and sterilization measures. , Isolate Ebola patients from unprotected people. , Avoid direct contact with the bodies of people who have died from Ebola. ,Notify health officials if you have been exposed to someone with Ebola."
+798,1,1, Ebola
+798,1,5," avoid areas that have had outbreaks ,  avoid contact with infected people, wash their hands often, and not touch or eat wild animals (sometimes called ""bush meat"") , wear head-to-toe protective clothing with no skin exposed."
+798,2,1, Ebola
+798,2,5," isolating and treating people who are infected with the Ebola virus , Any needles or other equipment used in their treatment should be disposed , remains of those who die from the disease must be kept isolated and buried promptly by trained professionals wearing full safety gear."
+798,3,1, Ebola
+798,3,4," keeping them well hydrated, maintaining their oxygen and blood pressure levels, replacing lost blood through transfusions, and treating symptoms and complications"
+798,3,5, Patients also need to be isolated from the public during treatment to help prevent the disease from spreading.
+799,1,1, Ebola
+799,1,5," avoid wild animals and raw or undercooked bushmeat, as well as take to heart the well-known advice to avoid the body fluids of those infected with the virus"
+799,2,1, Ebola
+799,2,5,"Immediately notify your organization, health officials, and the US embassy or consulate in Liberia if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE"
+799,3,1, Ebola
+799,3,5,"Immediately notify your organization, health officials, and the US embassy or consulate in Guinea if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE"
+799,4,1, Ebola
+799,4,5,"Immediately notify your organization, health officials, and the US embassy or consulate in Sierra Leone if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE"
+808,1,1,"cholera, diphtheria, infectious tuberculosis, plague, smallpox, yellow fever, viral hemorrhagic fevers, Severe Acute Respiratory Syndrome, influenza"
+808,1,2,sick
+808,1,8, influenza viruses
+809,1,1,cholera
+809,1,8, contagion
+809,2,1,"influenza, plague,"
+809,2,5,segregation or isolation to separate persons
+809,2,8,communicable disease
+810,1,1,cholera
+810,1,3,put under quarantine
+810,2,1,cholera
+810,3,1,"cholera, dysentery"
+810,3,2,"vomiting, cramps"
+810,3,6,intestines
+811,1,1,ebola
+811,1,5,"taken off a flight, flushed and distraught"
+842,2,1,cholera
+842,3,1,cholera
+842,4,1,ebola
+842,4,2,"fever, sore throat, muscle pain, headaches,  vomiting, diarrhea, rash, decreased functioning of the liver and kidneys"
+842,4,8,ebolavirus
+842,5,1,"ebola,  influenza, malaria, dengue fever"
+842,5,2,"fatigue, fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite"
+842,5,6,"throat, chest, skin"
+842,5,8,ebolavirus
+842,6,1,"ebola,  influenza, malaria, dengue fever"
+842,6,2,"fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite"
+842,6,6,"throat,liver, kidney"
+843,1,1,Ebola
+843,1,2," Coagulation defects,Bleeding,Shock,Hemorrhagic fever,Illness"
+843,1,8,"Ebola virus,RNA virus,Rhabdoviruses,Paramyxoviruses,Filoviridae,Hemorrhagic fever viruses"
+844,1,1,ebola
+844,1,2,bleeding
+844,1,6,"immune systems, organs, cells"
+844,1,8,virus
+844,2,1,"ebola, cholera, maleria"
+844,2,2," High fever, Headache, Joint and muscle aches, Sore throat, Weakness, Stomach pain, Lack of appetite, Blood vomiting"
+844,2,6,"eyes, ears, nose"
+844,3,1,ebola
+844,3,5,checking such animals for infection and killing and properly disposing of the bodies
+844,3,6,tissues
+844,4,1,evd
+844,4,4,oral rehydration therapy (slightly sweet and salty water to drink)
+844,4,6,tissues
+844,4,8,virus
+812,1,1,Ebola
+812,2,1,ebola
+812,2,5,"refrain from attending mass gatherings and using public transportation, refrain from traveling long distances"
+812,2,8,Ebola virus
+813,1,1,ebola
+813,1,5,"housed in a ""safe, rural setting"""
+814,1,1,ebola
+814,1,2,"vomiting, diarrhea"
+814,1,4, admitted to the hospital
+814,1,8,virus Ebola
+815,1,1,ebola
+815,1,5,quarantined for three weeks
+815,2,1,ebola
+815,2,5,quarantine doctors and nurses
+815,3,1,ebola
+816,1,1,ebola
+817,1,1,ebola
+817,1,5,"quarantine 112 soldiers, settle quarantine suit"
+817,2,1,ebola
+817,2,5,quarantined on a secluded island
+817,3,1,ebola
+817,3,5,quarantine them
+817,4,1,Ebola
+817,5,5,put in a secluded place
+817,6,1,ebola
+817,6,8,deadly virus
+817,7,1,ebola
+817,7,8,deadly outbreak
+818,1,1,"smallpox, measles, scarlet fever, Asiatic cholera,"
+818,1,8,"deadly disease, epidemic"
+819,1,1,typhus
+819,1,5, removed to quarantine facilities
+819,2,4,medical inspection or treatment
+819,2,8,"lice, fever"
+819,3,4,medical inspection or treatment
+819,3,8,"lice, fever"
+819,4,1,typhus
+819,4,5, removed to quarantine facilities
+819,5,1,typhus
+819,5,2,malnutrition
+819,6,1,typhus
+819,6,2,verge of death
+819,7,1,Ebola
+819,7,8,Ebola virus
+820,1,1,cholera
+820,1,2,ill
+820,1,5,"put under quarantine, put in quarantine"
+820,2,1,cholera
+820,2,5,quarantine enforced
+820,3,1,cholera
+820,3,5,flew a yellow quarantine flag
+821,1,1,cholera
+821,1,2,sick
+821,1,4,"kept away from marshes, garbage, and dirty water"
+821,1,5,quarantined
+821,2,2,"fever, rash, sick"
+821,2,3,examined any sick
+828,2,1,malaria
+828,2,2,"chills, fever, beginning with uncontrollable shivering for an hour or two, followed by a rapid spike in temperature, fatigue, severe headache, nausea, vomiting"
+828,2,6,head
+828,3,1,"falciparum, malaria"
+828,3,2,fever
+828,3,6,"red blood cells, kidney, lever"
+828,3,8,parasite
+829,1,1,malaria
+829,1,6,"brain, kidney, lever, blood vessels"
+829,1,8,malaria parasite
+829,2,1,malaria
+829,2,4,"clindamycin (Cleocin), mefloquin (Lariam), sulfadoxone, pyrimethamine (Fansidar)"
+829,2,6,mouth
+829,2,8,malaria parasite
+829,3,1,falciparum malaria
+830,1,1,typhus
+830,1,2,"severe headache, nonproductive cough, nausea, muscle aches (myalgia), chest pain, general feeling of illness (malaise), chills, high fever, extreme fatigue (prostration)"
+830,1,6,"trunk, gace, palm, soles"
+830,2,1,typhus
+830,2,2,"black, crusted bite, tender lymph nodes, eye pain and redness, conjunctivitis, rash"
+830,2,6,eye
+830,3,1,rash
+830,3,2,"delirium, stupor"
+830,3,6," intestines, liver, heart, kidneys, brain"
+830,4,1,rash
+830,4,2,"petechiae, delirium, stupor, hypotension, shock"
+830,4,6,"  face, palms, soles"
+831,1,1,Salmonella Typhi
+831,1,6,"epithelial cells, small intestine, distal ileum, lymphoid tissue, multiple organ systems"
+831,2,1,Ebola
+831,3,1,"typhus, typhoid"
+831,3,2,fever
+831,4,1,enteric fever
+831,4,2,"malaise, dry coughing, headache, myalgia, fever"
+831,5,1,cholera
+831,5,2,"watery diarrhea, vomiting, dehydration, Rapid heart rate, Loss of skin elasticity, Dry mucous membranes, Low blood pressure, Thirst, muscle cramps"
+831,5,6,"throat, nose, eyelids"
+832,1,1,cholera
+832,1,6,"cells, intestines"
+832,1,8,bacterium Vibrio cholerae
+833,1,1,cholera
+833,1,2,diarrhoea
+833,1,6,stomach
+833,1,8,bacterium Vibrio cholerae
+833,2,1,cholera
+833,2,2,"mild illness, diarrhoea,"
+833,2,6,stomach
+834,1,1,cholera
+834,1,6,"cells, intestinal mucosa, epithelial cells"
+834,1,8,cholera toxin
+834,2,1,"cholera, cystic fibrosis"
+834,2,6,intestine
+834,3,1,cholera
+834,3,2,"diarrhea, dehydration"
+834,3,6,intestine
+834,3,8,Vibrio cholerae
+834,4,1,ebola
+834,4,2,"fever fatigue, muscle pain, headache, sore throat, vomiting, diarrhoea, rash, symptoms of impaired kidney &amp; liver function"
+834,4,6,"kidney, liver"
+834,4,8,virus
+834,5,1,Ebola
+834,5,2," Flu,Bleeding,Organ failure"
+834,6,1,ebola
+834,6,6,kidney
+834,6,8,"ebola, virus"
+835,1,1,ebola
+835,1,6,"cell, blood vessels"
+835,2,1,ebola
+835,2,6,"cells, white blood cells, liver, kidney, spleen, brain"
+835,2,8,ebola virus

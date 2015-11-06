@@ -1,0 +1,1 @@
+We conducted a systematic review of the literature for statements of the incubation period of cholera and data that might aid in its estimation. We extracted individual-level data, parametrically estimated the distribution of toxigenic cholera's incubation period, and evaluated evidence for differences between strains.

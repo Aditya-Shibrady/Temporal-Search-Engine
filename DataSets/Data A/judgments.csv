@@ -1,0 +1,544 @@
+QID,URLNO,PNO,REL,EXPL
+3,68,1,0,talking about 1976
+3,68,2,0,ebola in 2013
+3,68,3,0,comparing 2014 and 2015 ebola cases
+3,68,4,1,initial outbreak
+3,68,5,1,first death
+3,68,6,1,first case 
+3,68,7,1,october baji first case
+3,68,8,1,first at that place
+3,68,9,0,not the first case
+3,68,10,0,in 2015
+4,107,1,1,in 2014
+4,110,1,1,in 2014
+4,111,1,1,first in africa
+4,112,1,1,first after 2013
+4,113,1,1,first in 2014
+6,76,1,1,
+6,76,2,1,
+6,76,3,1,
+6,76,4,1,
+6,76,5,1,
+7,77,1,1,
+7,77,2,1,
+7,77,3,1,
+7,77,4,1,
+7,78,1,1,
+8,79,1,1,
+8,79,2,1,
+8,79,3,1,
+8,79,4,1,
+8,79,5,1,
+9,80,1,1,
+9,80,2,1,
+9,80,3,1,
+9,81,1,1,
+9,81,2,1,
+10,82,1,1,
+10,82,2,1,
+10,82,3,1,
+10,82,4,1,
+10,82,5,1,
+3,31,2,0,does not tell about successful treatment
+3,33,1,1,gives full information about american patients who got first treated for ebola
+3,33,2,0,does not tell who is first treated
+3,36,1,1,gives full information about american patients who got first treated for ebola
+3,36,2,0,does not tell anything about american patients
+4,44,1,1,tells kent brantly successfully recovered
+4,44,2,0,does not talk about successful treatment
+4,45,1,1,gives full information about american patients who got first treated for ebola
+4,45,2,0,does not talk about successful treatment
+4,45,,1,tells brantly and writebol have successfully cured
+4,48,1,1,tells brantly and writebol have successfully cured
+4,48,2,0,does not tell if brantly is cured
+4,49,1,0,does not tell about treatment
+4,50,1,1,tells that kent is first us citizen to get cured from ebola
+4,50,2,0,doesn't tell who is first us citizen to get cured from ebola
+5,51,1,1,tells about kent and nancy
+5,51,2,0,does not tell who is first treated
+5,53,1,1,tells about kent and nancy
+5,53,2,0,does not tell if they got treated
+5,54,1,1,tells that kent is one of the two who got treated successfully
+5,55,1,1,tells about kent and nancy
+5,55,2,0,doesn't tell who is first us citizen to get cured from ebola
+5,54,2,0,doesn't tell who is first us citizen to get cured from ebola
+5,56,1,0,doesn't tell who is first us citizen to get cured from ebola
+5,56,2,1,tells exactly who got successfully treated for ebola
+6,57,1,1,tells who got treated
+4,111,2,1,"  [typhus, maintaining personal hygiene, controlling the rodent population, avoiding places where exposure has occurred, chemoprophylaxis with doxycycline, lice, rodents, arthropods]"
+4,112,1,1,"  [Immunization, louse control, vaccines, Lice may be eliminated by dusting infested people with malathion or lindane,  Lice]"
+4,113,1,1,"  [Avoid areas where you might encounter rat fleas or lice, Good sanitation, public health measures, rat fleas, lice]"
+4,113,2,1,"  [Bathing, Boiling clothes, avoiding infested clothing for at least 5 days, Using insecticides, 5 days, at least 5 days, lice]"
+4,113,3,0,"  [Endemic typhus, jail fever, rats, fleas]"
+4,113,4,0,"  [Murine typhus, during the summer and fall, rats feces, fleas, cats, opossums, raccoons, skunks]"
+5,114,1,1,"  [cholera, vaccine, only water that has been boiled, water that has been chemically disinfected, bottled water, a few months]"
+5,115,1,1,"  [Cholera, Drink and use safe water, Wash your hands often with soap and safe water, Use latrines or bury your feces (poop), Cook food well, peel fruits and vegetables, Clean up safely]"
+5,115,2,1,"  [Dukoral, ShanChol, Currently]"
+5,116,1,1,"  [cholera, providing clean water and proper sanitation, Health education, good food hygiene, hand-washing with soap after defecation and before handling food or eating, safe preparation and conservation of food ]"
+5,116,2,1,"  [cholera, Provision of safe water, proper sanitation, food safety, Health education]"
+5,116,3,0,"  [cholera, epidemic cholera]"
+5,116,4,0,"  [Cholera, watery diarrhea, vomiting]"
+6,117,1,1,"  [Ebola, Avoiding the Infection, Protecting Yourself From Infection, Taking Action if You Are Infected]"
+6,118,1,1,"  [Ebola, Avoid any contact with someone you believe is infected, use protective gear such as face masks and gloves, Ebola virus]"
+2,47,13,1,Gives the incubation period of Hep B
+2,47,14,0,Does not give any indication of Incubation period
+2,52,15,1,Gives the incubation period of Hep B
+2,52,16,0,Does not give any indication of Incubation period
+2,58,17,1,Gives the incubation period of Hep B
+2,58,18,0,Does not give any indication of Incubation period
+2,61,19,1,Gives the incubation period of Hep B
+2,61,20,0,Does not give any indication of Incubation period
+3,69,21,1,Gives the incubation period of Cholera
+3,69,22,0,Does not give any indication of Incubation period
+3,70,23,1,Gives the incubation period of Cholera
+3,70,24,0,Does not give any indication of Incubation period
+180,139,1,0,It is not providing the exact time
+180,140,1,0,It is not providing the exact time
+180,141,1,0,It is not providing the exact time
+180,142,1,0,It is not providing the exact time
+180,143,1,1,It is providing some relevant informaton on the treatment
+180,143,2,0,It is not providing the exact time
+180,144,1,0,It is not providing the exact time
+180,144,2,1,It is providing some relevant informaton
+180,145,1,1,It is providing some relevant informaton
+180,145,2,1,It is providing some relevant informaton
+181,146,1,1,It is providing some relevant informaton
+181,146,2,0,It is not providing the informaton on the recovery
+181,146,3,0,It is not providing the informaton on the recovery
+181,147,1,1,It is providing some relevant informaton
+181,148,1,1,It is providing some relevant informaton
+181,149,1,1,It is providing some relevant informaton
+181,149,2,0,It is not providing the informaton on the recovery
+181,150,1,1,It is providing some relevant informaton
+181,150,2,0,It is not providing the informaton on the recovery
+181,150,3,0,It is not providing the informaton on the recovery
+182,151,1,0,It is not providing the informaton on the recovery
+182,151,2,0,It is not providing the informaton on the recovery
+182,152,1,1,It is providing some relevant informaton
+182,152,2,0,It is not providing the informaton on the recovery
+182,153,1,1,It is providing some relevant informaton
+106,320,1,1,It is giving the relevant information
+106,320,2,1,It is giving the relevant information
+106,321,1,1,It is giving the relevant information
+106,321,2,1,It is giving the relevant information
+106,322,1,1,It is giving the relevant information
+106,322,2,0,It is not giving the relevant information
+106,322,3,0,It is not giving the relevant information
+107,323,1,1,It is giving the relevant information
+107,323,2,1,It is giving the relevant information
+107,323,3,1,It is giving the relevant information
+107,324,1,1,It is giving the relevant information
+107,325,1,1,It is giving the relevant information
+107,326,1,0,It is not giving the relevant information
+107,326,2,0,It is not giving the relevant information
+108,326,3,1,It is giving the relevant information
+108,326,4,1,It is giving the relevant information
+108,327,1,1,It is giving the relevant information
+120,368,1,1,It is giving the relevant information
+120,368,2,0,It is not giving the relevant information
+120,368,3,0,It is not giving the relevant information
+141,489,1,0,It does not contain information about first organ attacked
+141,489,2,0,It does not contain information about first organ attacked
+141,490,1,0,It does not contain information about first organ attacked
+141,491,1,0,It does not contain information about first organ attacked
+141,492,1,1,It contains the info about the first organ effected by malaria
+141,493,1,1,It contains the info about the first organ effected by malaria
+141,493,2,1,It contains the info about the first organ effected by malaria
+141,494,1,1,It contains the info about the first organ effected by malaria
+141,495,1,1,It contains the info about the first organ effected by malaria
+141,495,2,0,It does not contain information about first organ attacked
+142,496,1,1,It contains the info about the first organ effected by malaria
+142,497,1,1,It contains the info about the first organ effected by malaria
+142,498,1,1,It contains the info about the first organ effected by malaria
+142,499,1,1,It contains the info about the first organ effected by malaria
+142,500,1,1,It contains the info about the first organ effected by malaria
+142,501,1,0,It does not contain information about first organ attacked
+142,502,1,0,It does not contain information about first organ attacked
+142,503,1,0,It does not contain information about first organ attacked
+142,503,2,0,It does not contain information about first organ attacked
+142,503,3,0,It does not contain information about first organ attacked
+143,504,1,1,It contains the info about the first organ effected by malaria
+143,505,1,1,It contains the info about the first organ effected by malaria
+143,506,1,1,It contains the info about the first organ effected by malaria
+143,507,1,1,It contains the info about the first organ effected by malaria
+143,508,1,1,It contains the info about the first organ effected by malaria
+143,508,2,0,It does not contain information about first organ attacked
+143,509,1,0,It does not contain information about first organ attacked
+143,510,1,0,It does not contain information about first organ attacked
+143,511,1,0,It does not contain information about first organ attacked
+131,407,1,0,It is not giving the relevant information
+131,408,1,0,It is not giving the relevant information
+131,409,1,0,It is not giving the relevant information
+131,410,1,0,It is not giving the relevant information
+131,411,1,1,It is giving the relevant information
+131,411,2,0,It is not giving the relevant information
+131,412,1,0,It is not giving the relevant information
+131,412,2,1,It is giving the relevant information
+131,413,1,1,It is giving the relevant information
+131,413,2,1,It is giving the relevant information
+132,414,1,1,It is giving the relevant information
+132,414,2,0,It is not giving the relevant information
+132,414,3,0,It is not giving the relevant information
+132,415,1,1,It is giving the relevant information
+132,416,1,1,It is giving the relevant information
+132,417,1,1,It is giving the relevant information
+132,417,2,0,It is not giving the relevant information
+132,418,1,1,It is giving the relevant information
+132,418,2,0,It is not giving the relevant information
+132,418,3,0,It is not giving the relevant information
+133,419,1,0,It is not giving the relevant information
+133,419,2,0,It is not giving the relevant information
+133,420,1,1,It is giving the relevant information
+133,420,2,0,It is not giving the relevant information
+133,421,1,1,It is giving the relevant information
+133,421,2,0,It is not giving the relevant information
+133,422,1,0,It is not giving the relevant information
+133,423,1,0,It is not giving the relevant information
+133,424,1,1,It is giving the relevant information
+133,424,2,1,It is giving the relevant information
+134,425,1,1,It is giving the relevant information
+134,425,2,0,It is not giving the relevant information
+134,425,3,1,It is giving the relevant information
+134,425,4,1,It is giving the relevant information
+134,426,1,1,It is giving the relevant information
+134,427,1,0,It is not giving the relevant information
+134,428,1,1,It is giving the relevant information
+134,428,2,0,It is not giving the relevant information
+134,429,1,0,It is not giving the relevant information
+134,430,1,0,It is not giving the relevant information
+135,431,1,0,It is not giving the relevant information
+135,432,1,1,It is giving the relevant information
+135,432,2,0,It is not giving the relevant information
+135,432,3,1,It is giving the relevant information
+135,433,1,1,It is giving the relevant information
+135,433,2,1,It is giving the relevant information
+135,434,1,1,It is giving the relevant information
+135,434,2,1,It is giving the relevant information
+135,435,1,0,It is not giving the relevant information
+135,435,2,0,It is not giving the relevant information
+13,176,1,1,symptoms cholera
+13,176,2,1,first 
+13,176,3,1,symptoms cholera
+13,177,1,1,symptoms cholera
+13,178,1,1,cholera symptoms
+14,178,2,1,first cholera
+14,179,1,1,cholera symptoms
+14,179,2,1,cholera symptoms
+14,180,1,1,cholera symptoms
+14,180,2,1,cholera symptoms
+15,185,1,1,cholera symptoms
+15,185,2,1,cholera symptoms
+15,185,3,1,in children
+15,186,1,1,common symptoms of cholera
+15,187,1,1,cholera symptoms
+16,187,2,1,symptoms of cholera
+16,187,3,1,symptoms of cholera
+16,188,1,1,symptoms of cholera
+16,188,2,1,symptoms of cholera
+16,188,3,1,symptoms of cholera
+2,131,1,1,The information present is relevant
+2,131,2,1,The information present is relevant
+2,131,3,1,The information present is relevant
+2,133,1,1,The information present is relevant
+2,133,2,1,The information present is relevant
+14,893,2,1,spread 
+14,893,3,1,spread
+14,894,1,1,blog 2014
+14,894,2,1,article
+15,894,3,1,blog 2014
+15,895,1,1,first identified
+15,896,1,1,causes
+15,897,1,1,2014
+15,898,1,1,first texas case
+16,899,1,1,first 2014
+16,899,2,1,first
+16,900,1,1,first dallas
+16,900,2,1,first case
+16,901,1,1,africa 2014
+17,902,1,1,current
+17,903,1,1,first
+17,904,1,1,2014
+17,904,2,1,2014
+17,905,1,1,symptoms
+18,906,1,1,ebola
+18,907,1,1,2014
+18,908,1,1,first
+18,909,1,1,dallas
+18,910,1,1,2014
+8,192,1,1,The given information is relevant
+8,192,2,1,The given information is relevant
+8,192,3,1,The given information is relevant
+8,192,4,1,The given information is relevant
+8,192,5,1,The given information is relevant
+9,197,1,1,The given information is relevant
+9,197,2,1,The given information is relevant
+9,197,3,1,The given information is relevant
+9,198,1,1,The given information is relevant
+9,200,1,1,The given information is relevant
+10,204,1,1,The given information is relevant
+10,204,2,1,The given information is relevant
+10,209,1,1,The given information is relevant
+10,209,2,1,The given information is relevant
+10,209,3,1,The given information is relevant
+11,211,1,1,The given information is relevant
+11,211,2,1,The given information is relevant
+11,211,3,1,The given information is relevant
+11,211,4,1,The given information is relevant
+11,211,5,1,The given information is relevant
+12,212,1,1,The given information is relevant
+12,212,2,1,The given information is relevant
+12,212,3,1,The given information is relevant
+12,212,4,1,The given information is relevant
+12,212,5,1,The given information is relevant
+13,911,1,1,The given information is relevant
+13,912,1,1,The given information is relevant
+13,912,2,1,The given information is relevant
+13,912,3,1,The given information is relevant
+13,913,1,1,The given information is relevant
+14,914,1,1,The given information is relevant
+14,914,2,1,The given information is relevant
+14,915,1,1,relevant
+14,916,1,1,relevant
+14,917,1,1,relevant
+3,922,1,1,for typhus
+3,922,2,1,for typhus
+3,923,1,1,for typhus
+3,924,1,1,incubation
+3,925,1,1,relevant
+4,926,1,1,cholera
+4,927,1,1,cholera
+4,928,1,1,cholera
+4,929,1,1,cholera
+4,930,1,1,cholera
+3,549,1,0,"[Ebola, eyes, nose, mouth, or broken skin, Ebola virus]"
+3,550,1,0,"[Ebola,  sudden increase in body temperature, accompanied by strong headaches, joint and muscle pain,Decreased appetite and sore throat., head,muscle,throat, Ebola virus]"
+3,550,2,0,"[Ebola, Ebola virus]"
+3,550,3,0,"[Ebola,  tiny white blisters,red spots,Rips in the skinand spontaneous bleeding., eyes, nose and mouth, ebola virus]"
+3,551,1,0,[Ebola]
+4,551,2,0,"[Ebola, Ebola viruses]"
+4,552,1,0,"[Ebola,  severe inflammation that can cause these clotting proteins, liver, brain or kidneys]"
+4,553,1,0,"[Ebola,  liver bulges up and turns yellow,kidneys becomes jammed with blood clots and dead cells,spleen turns into a single huge., liver, brain or kidneys,spleen,intestines,testicles,nipples, Ebola virus]"
+4,554,1,0,"[Ebola,  blood vessels start to leak, blood vessels,liver]"
+4,554,2,0,"[Ebola,  leakiness of the blood vessels, kidney,liver, Ebola virus]"
+14,588,1,0,"[Typhus fever,murine typhus, Treatment with antibiotics hastens recovery and lessens the chance of complications, O. tsutsugamushi]"
+14,589,1,0,"[scrub typhus,typhus (murine),spotted fever (tick typhus)]"
+14,590,1,0,"[Ebola, Ebola virus]"
+14,591,1,0,"[Scrub typhus, tetracycline therapy, O. tsutsugamushi]"
+14,592,1,0,"[Scrub typhus,  blood pressure was persistently low due to acute adrenal insufficiency]"
+15,593,1,0,"[Cholera, V. cholerae O1]"
+15,593,2,0,"[Cholera, Vibrio cholerae O1]"
+15,594,1,0,[Cholera]
+15,595,1,0,"[Cholera, cholera bacterium]"
+15,596,1,0,"[Cholera, water treatment and safe water storage]"
+16,596,2,0,"[Cholera, V. cholerae O1]"
+16,597,1,0,"[Cholera, V. cholerae O1]"
+16,598,1,0,"[Ebola, Ebola virus]"
+16,599,1,0,"[Ebola, Ebola virus]"
+16,600,1,0,[Ebola]
+17,601,1,0,[Ebola]
+17,602,1,0,[Ebola]
+17,603,1,0,[Ebola]
+17,603,2,0,[Ebola]
+17,604,1,0,[Ebola]
+18,605,1,0,"[Malaria, rapid diagnostic tests]"
+18,606,1,0,"[Endemic malaria, Plasmodium]"
+18,606,2,0,"[Malaria, P. falciparum]"
+18,607,1,0,[Malaria]
+18,608,1,0,[Ebola]
+8,641,1,0,"[Ebola, Illness]"
+8,641,2,0,"[Ebola, Ill]"
+8,641,3,0,"[Ebola, Illness]"
+8,642,1,0,"[Ebola, pain, nausea, fever anxiety, bleeding, Blood, red blood cells, platelets, plasma]"
+8,643,1,0,"[Ebola, kidney failure, lung dysfunction, Mouth nose Blood lung]"
+9,644,1,0,[Ebola]
+9,644,2,0,"[Ebola, fever, headache, joint muscle aches, sore throat, weakness, diarrhea, vomiting stomach pain. rash, red eyes, hiccups, bleeding, Blood]"
+9,644,3,0,"[Ebola, fever fatigue, muscle pain, headache,sore throat,vomiting, diarrhoea, rash, impaired kidney liver function, bleeding, platelet liver white blood cell]"
+9,644,4,0,"[immune therapies drug therapies vaccines, Blood]"
+9,645,1,0,"[Ebola, ill]"
+10,645,2,0,"[Ebola, Ebola virus]"
+10,646,1,0,"[Ebola, blood]"
+10,647,1,0,"[Ebola, ill asthenia, blood]"
+10,648,1,0,[Ebola]
+10,648,2,0,"[Ebola, blood]"
+11,648,3,0,"[Ebola, illness]"
+11,649,1,0,[Ebola]
+11,650,1,0,"[Ebola, blood]"
+11,651,1,0,"[Ebola, death]"
+11,651,1,0,"[Ebola, death]"
+12,652,1,0,[Ebola]
+12,653,1,0,"[Ebola,  flu-like symptoms,bleeding, Ebola virus]"
+12,654,1,0,[Ebola]
+12,655,1,0,"[Ebola, Immunity]"
+12,655,2,0,"[Ebola, Ill respiratory problems illness, kidney]"
+13,656,1,0,"[Ebola measles influenza, Illness weakness, fever, aches, diarrhea, vomiting stomach pain rash, red eyes, chest pain, throat soreness, difficulty breathing or swallowing bleeding, Throat stomach eyes chest]"
+13,657,1,0,"[Ebola, rash, red eyes, chest pain, throat soreness, difficulty breathing swallowing bleeding]"
+13,657,1,0,"[ebola, illness, vaccines]"
+13,658,1,0,[ebola]
+13,658,2,0,"[Ebola, died]"
+14,659,1,0,"[Ebola, died]"
+14,660,1,0,"[illness, blood test]"
+14,661,1,0,"[Ebola, Ebola virus]"
+14,662,1,0,[Ebola]
+14,663,1,0,"[Ebola, illness]"
+2,666,3,0,[Ebola]
+2,667,1,0,"[Ebola, Blood serum and experimental drug]"
+2,668,1,0,[Ebola]
+2,669,1,0,"[Ebola, Ebola virus]"
+2,669,2,0,[Ebola]
+13,689,1,0,"[ Malaria,   fevers, chills, flu-like illness, shaking chills , high fevers,  prescription medicine, preventing mosquito bites]"
+13,689,2,0,"[Ebola, Ebola virus]"
+13,690,1,0,"[ Malaria, keeping mosquitoes away from humans,Spraying your home,Sleeping under a net, Covering your skin, Spraying clothing and skin]"
+13,691,1,0,"[ Malaria,   fever, chills, flu-like illness, shaking chills , high fevers,  antimalarial medication,  Plasmodium, Plasmodium falciparum]"
+13,692,1,0,"[ Malaria,  antimalarial medication, malaria prophylaxis,Awareness of risk,Bite avoidance,Chemoprophylaxis,  Plasmodium, Plasmodium falciparum]"
+14,693,1,0,[ Malaria]
+14,694,1,0,"[ Malaria, homeopathic remedies,electronic buzzers, vitamins B1 or B12, garlic, yeast extract spread (such as Marmite), tea tree oils, bath oils, mosquito bites]"
+14,695,1,0,"[cholera, dehydration, watery diarrhea , vomiting]"
+14,695,2,0,"[cholera,  watery diarrhea,  drink ORS,  breastfeed baby, Cholera germs , feces,  poop]"
+14,696,1,0,"[cholera,  proper water treatment , storage of water]"
+15,697,1,0,"[cholera,  proper water treatment , storage of water  , water, sanitation , hygiene, frequent and widespread flooding , contaminate water sources]"
+15,698,1,0,"[cholera,  diarrhea,  safe drinking water, proper sanitation, adequate hygiene,  essential health services,  awareness to prevent diarrhea, afe drinking water, proper disposal of human waste,  frequent handwashing]"
+15,698,2,0,"[EVD, Ebola virus]"
+15,698,3,0,"[Ebola, Ebola virus,Zaire Ebola]"
+15,699,1,0,[cholera]
+16,700,1,0,"[cholera,   watery diarrhea, drinking water contaminated, Vibrio cholerae]"
+16,701,1,0,"[typhus,   Bathing and use of insecticides, avoid contact with fleas ,avoid contact with lice , fecal droppings from rodents , treat domestic animals to rid them of fleas, sanitation and reducing populations of rats,  sanitation and reducing populations of mice, Insect repellent]"
+16,702,1,0,"[typhus, headache,high fever,chills,rash, stupor,, Arthropods, Rickettsia prowazekii , R. typhi , rat flea,  cat flea ,mites]"
+16,703,1,0,"[typhus, high fever, intense generalized headache, diffuse myalgias, rash and an eschar at the site of the chigger bite,  serologic testing , biopsy of an eschar , clinical history (including visit to an endemic area) , physical findings, mite-borne, Orientia tsutsugamushi , Rickettsia tsutsugamushi]"
+16,704,1,0,"[Rickettsioses , typus,  fever, headache, malaise, nausea , vomiting , maculopapular, vesicular, petechial rash , eschar , myalgia , febrile illness,  minimize exposure to infectious arthropods (including lice, fleas, ticks, mites) , minimize exposure to animal reservoirs, particularly dogs and cats , insect  , tick repellents  , insecticides ,acaricides , wearing protective clothing]"
+6,714,3,0,"[ Ebola virus disease ,  Ebola haemorrhagic fever,  Pteropodidae]"
+6,715,1,0,[Ebola haemorrhagic fever]
+6,716,1,0,"[ Cholera,  oral cholera vaccine]"
+6,717,1,0,"[ Cholera,  Orochol (Mutacol) vaccine , Dukoral vaccine]"
+6,718,1,0,"[ Cholera,  Orochol (Mutacol) vaccine , Dukoral vaccine]"
+7,719,1,0,"[ Cholera,  Orochol (Mutacol) vaccine , Dukoral vaccine]"
+7,720,1,0,[ Cholera]
+7,721,1,0,"[ Cholera,  very poor sanitation , lack of clean drinking water,  maintain a good standard of hygiene.]"
+7,722,1,0,[ Cholera]
+7,722,2,0,"[ typhus,   high fever, intense generalized headache, diffuse myalgias, in many patients, rash and an eschar at the site of the chigger bite,  serologic testing , biopsy of an eschar.,   Orientia tsutsugamushi (previously called Rickettsia tsutsugamushi) , mite-borne infectious]"
+8,723,1,0,"[ typhus,  fever, chills, malaise, muscle aches,  severe headaches , illness , lethargy, delirium,  stupor progressing to coma,   doxycycline,  Decontamination and delousing of all typhus patients and their clothing, rickettsial infection , lice or louse feces into a break in the skin]"
+8,724,1,0,"[ typhus,  Cleanliness , expose infested clothing to a minimum temperature of 70 degrees C for at least one hour , the dusting technique , treating clothing]"
+8,724,2,0,"[Ebola,  internal and external bleeding,vomiting of blood, coughing up of blood or blood in stoo]"
+8,725,1,0,"[ typhus , Tick borne typhus , louse borne typhus,  doxycycline,  clean clothes  ,dusted with powder containing 1% malathion or 1% permethrin , antirodent measures ,  insect repellent, rats]"
+8,725,2,0,"[  Scrub typhus,  clearing of secondary jungle grass  ,use of jungle boots and gaiters with long trousers, permethrin or DEET impregnation of clothing, consideration of the use of prophylactic oral doxycycline 200 mg weekly]"
+9,725,3,0,"[  Scrub typhus,  eschar]"
+9,726,1,0,"[  rickettsial ,  tick typhus, murine typhus, epidemic typhus , Q fever,  eschar, mite borne , Orientia tsutsugamushi]"
+9,727,1,0,"[  malaria,   chloroquine, sulfadoxine-pyrimethamine, mefloquine, atovaquone, atovaquone-proguanil, quinine,  doxycycline, protozoan , mosquitos]"
+9,728,1,0,"[  malaria,   mefloquine, doxycycline, chloroquine, hydroxychloroquine,  Malarone.,    pregnant women should take preventive medications,  treatment may need to begin as long as 2 weeks before travel to the area]"
+9,728,2,0,"[  malaria,   mefloquine, doxycycline, chloroquine, hydroxychloroquine,  Malarone,    wearing protective clothing over the arms and legs, using screens on windows, and using insect repellent, Avoid mosquito bites, pregnant women should take preventive medications,  treatment may need to begin as long as 2 weeks before travel to the area]"
+10,729,1,0,"[  malaria,   prophylaxis , chloroquine , mefloquine (Lariam), atovaquone/proguanil (Malarone)(PDF), doxycycline,  primaquine]"
+10,730,1,0,"[  malaria,   Chemoprophylaxis,    Protect yourself from mosquito bites particularly from sunset to sunrise  , Travellers should consult a health care provider, visit a travel health clinic ,]"
+10,730,2,0,"[  malaria,   Chemoprophylaxis,  bite of an infected mosquito]"
+10,730,3,0,"[Ebola,  joint pain, liver inflammation, and decreased hearing,low blood pressure from fluid]"
+10,730,4,0,"[  malaria,  bite of an infected mosquito , malaria parasites]"
+3,731,1,0,"[Malaria,  Atovaquone-proguanil, doxycycline, or mefloquine.,  P. vivax , P. falciparum]"
+3,731,2,0,"[Malaria,  Atovaquone-proguanil, doxycycline, or mefloquine.,  P. vivax , P. falciparum ,  P. ovale]"
+3,731,3,0,"[Malaria,  Atovaquone-proguanil, doxycycline, or mefloquine.,  P. vivax , P. falciparum]"
+3,731,4,0,"[Malaria,  tovaquone-proguanil, chloroquine, doxycycline, mefloquine, or primaquine.,  P. vivax , P. falciparum]"
+3,731,5,0,"[Malaria,  Atovaquone-proguanil, doxycycline, or mefloquine.,  P. vivax , P. falciparum]"
+4,731,6,0,[Malaria]
+4,731,7,0,"[ malaria,    protect yourself from mosquito bite,   Plasmodium , bite of an infected mosquito]"
+4,732,1,0,"[ Hepatitis,  development of jaundice,   liver disease]"
+4,732,2,0,"[ Hepatitis,  development of jaundice,   liver disease]"
+4,733,1,0,"[Ebola, Ebola virus]"
+5,733,2,0,"[ Hepatitis,  development of jaundice,   liver disease]"
+5,734,1,0,"[ Hepatitis,   unwell with possible nausea, vomiting, diarrhea, anorexia and headaches]"
+5,734,2,0,"[ Hepatitis,   unwell with possible nausea, vomiting, diarrhea, anorexia and headaches]"
+5,735,1,0,"[ Hepatitis,   fatigue, anorexia and nausea and right upper quadrant pain,   HBsAg  in the blood or serum for longer than six months]"
+5,735,2,0,"[ Hepatitis,   fatigue, anorexia and nausea and right upper quadrant pain  ,infection of the liver,   hepatitis B virus (HBV),vaginal or anal intercourse , blood-to-blood contact , haring of needles and other equipment by injecting drug users, or 'needlestick' injuries ,]"
+6,736,1,0,"[ cholera,   access to safe water, hygiene and sanitation in the world?s poorest communities,    bad water]"
+6,736,2,0,"[ cholera, typhoid , dysentery,    clean drinking water and sanitation , access to clean water, clean hands prior to mealtime and uncontaminated food supply]"
+6,737,1,0,[ cholera]
+6,738,1,0,"[ cholera,    no proper access to adequate water and sanitation resources]"
+6,790,1,0,[Ebola]
+106,799,5,0,"[ Ebola, Avoid nonessential travel , Practice careful hygiene. For example, wash your hands frequently with soap and water or use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) , Do not handle items that may have come in contact with an infected person?s blood or body fluids , Avoid direct contact with dead bodies, including participating in funeral or burial rituals.]"
+106,799,6,0,"[ Ebola,  headache, fatigue, muscle pain, vomiting, diarrhea, stomach pain, or unexplained bleeding or bruising, Avoid nonessential travel , Practice careful hygiene. For example, wash your hands frequently with soap and water or use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) , Do not handle items that may have come in contact with an infected person?s blood or body fluids , Avoid direct contact with dead bodies, including participating in funeral or burial rituals.,  Zaire, Sudan, Bundibugyo, or Tai Forest virus , blood or body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) ,]"
+106,799,7,0,"[Ebola,  sudden onsetof fever fatigue, muscle pain, headache and sore throat,vomiting, diarrhoea, rash,]"
+106,799,8,0,[ Ebola]
+106,800,1,0,"[ebola, treating Ebola patients, daily monitoring without isolation, Ebola infection]"
+107,800,2,0,"[ebola, impose mandatory quarantines, ebola virus]"
+107,800,3,0,"[ebola, curb, isolating troops returning from their mission,, ebola virus]"
+107,800,4,0,[ebola]
+107,801,1,0,"[ebola, fever, took her temperature, specially equipped medical transport vehicle]"
+107,801,2,0,"[ebola, protective gear, bodily fluids, bodily fluid, infected person]"
+108,802,1,0,"[ebola, fever, vomiting, diarrhea]"
+108,803,1,0,"[malaria, dengue fever, Lassa fever, worms,ebola, self-quarantine, Ebola virus]"
+108,803,2,0,"[ebola, sick, asked to stay at home, limit movements, and monitor their health for 21 days]"
+108,804,1,0,"[Ebola, Ebola virus]"
+108,804,2,0,[Ebola]
+2,804,3,0,"[ebola,  elevated temperatures,  screening, test negative for Ebola twice, medical treatment, contacts should not travel internationally for 21 days]"
+2,805,1,0,"[ebola, prevent, setting up checkpoints]"
+2,805,2,0,[sick]
+2,805,3,0,"[ebola, construct new centers, conduct training]"
+2,805,4,0,"[ebola, provide technical support]"
+2,806,1,0,[typhus]
+2,806,2,0,"[typhus, cholera, cholera epidemic]"
+3,806,3,0,"[typhus, making it necessary for the emigrants to stay on board their ships, washing and airing out the ships, contagion]"
+3,806,4,0,"[typhus, feverish, examining the tongues, tongue]"
+3,806,5,0,"[typhus, ship fever,  lack of suitable preparations]"
+3,806,6,0,"[Ebola, Ebola virus]"
+3,807,1,0,[typhus]
+3,807,2,0,"[typhus, typhoid, epidemic]"
+3,807,3,0,"[cholera, cholera vaccination, precautions to avoid cholera,, epidemic]"
+3,844,5,0,"[ebola, fever, sore throat, muscle pain, headaches, vomiting, diarrhea, rash, decreased functioning of the liver and kidneys, liver, kidneys]"
+3,844,6,0,"[ebola,  influenza, malaria, dengue fever, fatigue, fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite, throat, chest, skin, ebolavirus]"
+3,844,7,0,"[ebola, bleeding, immune systems, organs, cells, virus]"
+3,844,8,0,"[ebola,  influenza, malaria, dengue fever, fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite, throat,liver, kidney]"
+3,844,9,0,"[ebola, cholera, maleria,  High fever, Headache, Joint and muscle aches, Sore throat, Weakness, Stomach pain, Lack of appetite, Blood vomiting, eyes, ears, nose]"
+4,844,10,0,"[evd, ebolavirus, Bundibugyo virus (BDBV), Sudan virus (SUDV), Ta? Forest virus (TAFV)]"
+4,844,11,0,"[Ebola, Ebola virus,fruit bats]"
+4,844,12,0,"[Ebola, sick, viral]"
+4,845,1,0,"[Ebola, ebola virus]"
+4,845,2,0,"[Ebola, Ebola virus]"
+120,821,3,0,"[cholera, illness]"
+120,821,4,0,"[cholera, cholera epidemic]"
+120,822,1,0,"[moved to better living conditions, hygiene]"
+120,822,2,0,"[ebola, quarantined]"
+120,823,1,0,"[plague, practice of quarantine]"
+120,823,2,0,"[Ebola, internal and external bleeding,vomiting of blood, coughing up of blood or blood in stool.]"
+120,823,3,0,"[plague, inspect the plane, tested everyone, virus]"
+141,823,4,0,"[ebola, H1N1, inspect the plane, tested everyone, virus]"
+141,823,5,0,"[ malaria, cholera, typhoid fever, meningitis, inspect the plane, tested everyone, breast,  body fluids of an infected human, Fruit bats]"
+141,823,6,0,"[ebola, symptoms of illness, not to come to the office]"
+141,823,7,0,"[fever, took her temperature, quarantined]"
+141,823,8,0,"[daily health checks, quarantined at home]"
+141,824,1,0,"[fever, quarantined]"
+141,824,2,0,"[ebola, quarantined]"
+142,825,1,0,"[ebola, fever, quarantined]"
+142,825,2,0,"[ebola, ill, deadly virus]"
+142,825,3,0,"[Ebola,  low blood pressure from fluid loss,muscle and joint pain, liver inflammation,decreased hearing., muscle,joint,liver.]"
+142,825,4,0,"[ebola, quarantined]"
+142,825,5,0,"[ebola, release proteins, blood clotting, hemorrhaging, tissue, every organ, bones, skeletal muscles, virus particles]"
+142,825,6,0,"[ebola, blood clotting, hemorrhaging, tissue, collagen, ebola virus]"
+142,825,7,0,"[ebola, increase in body temperature, strong headaches, and joint and muscle pain, Diarrhea, vomiting, stomach pain, Bleeding, eyes, nose, and tongue, ebola virus]"
+143,825,8,0,"[ebola, Fever, vomiting, a raised rash and weight loss, tissue in the body, sparing bone and skeletal muscle, skin, ebola virus]"
+143,825,9,0,"[ebola, AIDS, immune system, T-lymphocyte cells,, virus]"
+143,825,10,0,[ebola]
+143,825,11,0,"[ebola, creating a vaccine]"
+143,826,1,0,"[Malaria, seen to be swollen, stomach, liver,  red blood cells]"
+143,827,1,0,"[malaria, clogging blood vessels, blood stream, liver, blood cells, blood vessels, malaria parasite]"
+143,828,1,0,[Ebola]
+131,835,3,0,"[ebola, flu, bleeding out of the eyes, illness,  bleeding of the gums, or bruising, eyes]"
+131,835,4,0,"[ebola, immune system, cells, viral infection]"
+131,835,5,0,[ebola]
+131,836,1,0,"[malaria, abnormal behavior, impairment of consciousness, seizures, coma, anemia, kidney]"
+131,836,2,0,"[malaria, liver, malaria parasite]"
+132,836,3,0,"[falciparum malaria, fever, liver, red blood cells, kidneys, spleens, brain]"
+132,837,1,0,"[falciparum malaria, liver, red blood cells, Plasmodium]"
+132,837,2,0,"[EVD, fever,sore throat,muscle pain,headaches,vomiting,diarrhea, Ebolaviruses]"
+132,838,1,0,[Ebola]
+132,838,2,0,"[malaria, jaundice, anemia, fever, flu-like illness, shaking chills, headache, muscle aches, tiredness. Nausea, vomiting, diarrhea, kidney]"
+133,838,3,0,"[malaria, absent or very mild symptoms to severe disease and even death, malaria parasites]"
+133,838,4,0,"[malaria, anemia, falciparum malaria]"
+133,838,5,0,"[typhus, severe headache, nonproductive cough, nausea, muscle aches, chest pain, general feeling of illness, face, palms, soles]"
+133,838,6,0,"[typhus, rash, delirium or stupor, Lymph nodes,  intestines, liver, heart, kidneys, brain]"
+133,839,1,0,"[lympathic tissues, small intestine, liver, spleen,, S. typhi]"
+134,840,1,0,"[Typhus, living cells,  unusual bacteria]"
+134,840,2,0,"[Typhus,  fever, headache, chills, general aches that are followed by a rash, face, palms, hands, feet]"
+134,840,3,0,"[typhoid,  enteric fever, systemic fever, severe headache, nausea, loss of appetite,  constipation or diarrhea, enlargement of the spleen, possible development of meningitis, general malaise, S. typhi]"
+134,840,4,0,"[Typhus,  fever, headache, chills, general aches that are followed by a rash, boiling or steaming their clothes, body]"
+134,840,5,0,[Ebola]
+135,841,1,0,"[cholera, true hemorrhage, debility, faintness, coldness, pulmonary capillaries, arteries, lungs, bowels]"
+135,841,2,0,"[cholera,  lungs, effluvia]"
+135,841,3,0,"[cholera, illness, dizziness, faintness, feeling of sinking,  lungs, alimentary canal, mucous membrane, stomach, bowels]"
+135,841,4,0,"[cholera, alimentary canal,skin, cholera poison]"
+135,842,1,0,"[cholera, erythematous inflammation, catarrh, excoriations, ulceration, brain, digestive organs]"

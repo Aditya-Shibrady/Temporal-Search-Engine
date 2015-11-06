@@ -1,0 +1,525 @@
+QID,URLNO,PNO,REL,EXPL
+1,1,1,1,first cae in new york 2014
+1,1,2,1,first case texas
+1,3,1,1,first case congo
+1,5,1,1,14-Mar
+1,5,2,0,not first case
+1,5,3,0,not first case
+1,5,4,0,not first case
+1,2,1,0,not first n texas
+1,4,1,1,first in africa
+1,6,1,0,1976
+2,7,1,0,guniea
+2,19,1,1,firs case in us
+2,19,2,0,second case
+2,21,1,1,africa initial spread
+2,21,2,1,to US
+2,21,3,0,its not 2014
+2,32,1,0,only statistics
+2,6,2,1,2014
+2,6,3,0,virus causing not relevant
+2,38,1,1,quick spread in 2014
+1,124,1,1,relevant
+1,124,2,1,relevant
+1,124,3,1,relevant
+1,128,1,1,relevant
+1,129,1,1,relevant
+1,22,2,1,relevant
+1,22,1,1,relevant
+1,23,1,1,relevant
+1,24,1,0,irrelevant
+1,25,1,1,relevant
+1,26,1,1,relevant
+1,26,2,1,relevant
+1,25,2,0,irrelevant
+1,25,3,0,irrelevant
+1,25,4,0,irrelevant
+1,25,5,0,irrelevant
+2,26,1,1,relevant
+2,26,2,1,relevant
+2,26,3,1,relevant
+2,27,1,1,relevant
+2,27,2,1,relevant
+2,26,3,0,irrelevant
+2,26,4,0,irrelevant
+2,26,5,0,irrelevant
+2,28,1,0,irrelevant
+2,28,2,0,irrelevant
+3,30,1,1,relevant
+3,30,2,1,relevant
+3,29,3,1,relevant
+3,31,1,1,relevant
+3,31,2,1,relevant
+3,32,1,0,irrelevant
+3,32,2,0,irrelevant
+3,32,3,0,irrelevant
+3,32,4,0,irrelevant
+3,32,5,0,irrelevant
+4,74,1,1,relevant
+4,74,3,1,relevant
+4,74,4,1,relevant
+4,75,1,1,relevant
+4,75,2,1,relevant
+4,74,2,0,irrelevant
+4,75,3,0,irrelevant
+4,74,4,0,irrelevant
+4,74,5,0,irrelevant
+4,74,6,0,irrelevant
+5,43,1,1,relevant
+5,43,2,1,relevant
+5,43,3,1,relevant
+5,43,4,1,relevant
+5,43,5,1,relevant
+8,85,4,0,does not give information about successful treatment
+8,87,1,1,tells who first got treated
+8,87,2,0,does not tell if they got treated
+8,89,1,1,tells exactly who got successfully treated for ebola
+8,89,2,1,tells who got treated
+8,89,3,0,does not tell who are first treated
+8,89,4,0,does not tell who got treated 
+9,90,1,1,tells who first got treated
+9,90,2,0,does not tell if they got treated
+9,92,1,1,tells that brantly and writebol got treated
+9,92,2,0,does not tell who got treated 
+9,93,1,1,tells who got treated and when
+9,93,2,0,does not tell about first
+9,94,1,1,tells exactly who got successfully treated for ebola
+9,94,2,0,does not tell about first
+9,95,1,1,tells who got treated
+9,95,2,0,does not tell about brantly
+10,96,1,1,tells who got first treated
+10,96,2,0,does not tell about first
+10,97,1,1,tells who got treated
+10,97,2,0,does not tell about first
+10,98,1,1,tells who got treated
+10,98,2,0,does not tell who got treated 
+10,99,1,1,tells who survived ebola
+10,99,2,0,does not tell who is first treated
+10,100,1,1,tells who first got treated
+10,100,2,0,does not tell if they got treated
+11,101,1,1,tells who got treated
+11,101,2,0,does not tell who got treated 
+11,102,1,1,tells brantly has recovered
+11,102,2,0,does not tell who got treated 
+3,71,25,1,Gives the incubation period of Cholera
+3,71,26,0,Does not give any indication of Incubation period
+3,72,27,1,Gives the incubation period of Cholera
+3,72,28,0,Does not give any indication of Incubation period
+3,73,29,1,Gives the incubation period of Cholera
+3,73,30,0,Does not give any indication of Incubation period
+4,91,31,1,Gives the incubation period of Typhus
+4,91,32,0,Does not give any indication of Incubation period
+4,108,33,1,Gives the incubation period of Typhus
+4,108,34,0,Does not give any indication of Incubation period
+3,118,1,1,Gives the quarantine period of Ebola
+3,118,2,0,Does not gives the quarantine period of Ebola
+103,311,1,1,It is giving the relevant information
+103,311,2,1,It is giving the relevant information
+103,311,3,0,It is not giving the relevant information
+103,311,4,0,It is not giving the relevant information
+104,312,1,1,It is giving the relevant information
+104,313,1,1,It is giving the relevant information
+104,313,2,1,It is giving the relevant information
+104,314,1,1,It is giving the relevant information
+104,314,2,1,It is giving the relevant information
+104,314,3,0,It is not giving the relevant information
+104,314,4,0,It is not giving the relevant information
+105,315,1,1,It is giving the relevant information
+105,316,1,1,It is giving the relevant information
+105,316,2,1,It is giving the relevant information
+105,317,1,1,It is giving the relevant information
+105,318,1,1,It is giving the relevant information
+105,319,1,0,It is not giving the relevant information
+105,319,2,0,It is not giving the relevant information
+116,352,1,1,It is giving the relevant information
+116,352,2,1,It is giving the relevant information
+116,353,1,1,It is giving the relevant information
+116,353,2,1,It is giving the relevant information
+116,354,1,1,It is giving the relevant information
+116,355,1,0,It is not giving the relevant information
+116,355,2,0,It is not giving the relevant information
+117,356,1,1,It is giving the relevant information
+117,356,2,1,It is giving the relevant information
+117,357,1,1,It is giving the relevant information
+117,357,2,1,It is giving the relevant information
+117,357,3,1,It is giving the relevant information
+117,357,4,0,It is not giving the relevant information
+117,357,5,0,It is not giving the relevant information
+118,358,1,1,It is giving the relevant information
+118,358,2,1,It is giving the relevant information
+118,359,1,1,It is giving the relevant information
+118,360,1,1,It is giving the relevant information
+118,361,1,1,It is giving the relevant information
+118,361,2,0,It is not giving the relevant information
+118,361,3,0,It is not giving the relevant information
+119,362,1,1,It is giving the relevant information
+119,363,1,1,It is giving the relevant information
+119,363,2,1,It is giving the relevant information
+119,364,1,1,It is giving the relevant information
+119,364,2,1,It is giving the relevant information
+119,364,3,0,It is not giving the relevant information
+119,364,4,0,It is not giving the relevant information
+120,365,1,1,It is giving the relevant information
+120,365,2,1,It is giving the relevant information
+120,366,1,1,It is giving the relevant information
+120,367,1,1,It is giving the relevant information
+126,390,1,1,It is giving the relevant information
+126,391,1,1,It is giving the relevant information
+126,392,1,1,It is giving the relevant information
+126,392,2,1,It is giving the relevant information
+126,392,3,1,It is giving the relevant information
+126,392,4,0,It is not giving the relevant information
+126,392,5,0,It is not giving the relevant information
+126,477,1,0,It is not giving the relevant information
+126,478,1,0,It is not giving the relevant information
+126,479,1,0,It is not giving the relevant information
+127,393,1,1,It is giving the relevant information
+127,394,1,1,It is giving the relevant information
+127,394,2,1,It is giving the relevant information
+127,395,1,1,It is giving the relevant information
+127,395,2,1,It is giving the relevant information
+127,395,3,0,It is not giving the relevant information
+127,395,4,0,It is not giving the relevant information
+127,480,1,0,It is not giving the relevant information
+127,480,2,0,It is not giving the relevant information
+127,481,1,0,It is not giving the relevant information
+128,396,1,1,It is giving the relevant information
+128,396,2,1,It is giving the relevant information
+128,396,3,1,It is giving the relevant information
+128,397,1,1,It is giving the relevant information
+128,398,1,1,It is giving the relevant information
+128,399,1,0,It is not giving the relevant information
+128,399,2,0,It is not giving the relevant information
+128,482,1,0,It is not giving the relevant information
+128,483,1,0,It is not giving the relevant information
+128,484,1,0,It is not giving the relevant information
+129,400,1,1,It is giving the relevant information
+129,400,2,1,It is giving the relevant information
+129,401,1,1,It is giving the relevant information
+129,402,1,1,It is giving the relevant information
+129,402,2,1,It is giving the relevant information
+129,403,1,0,It is not giving the relevant information
+129,403,2,0,It is not giving the relevant information
+129,485,1,0,It is not giving the relevant information
+129,486,1,0,It is not giving the relevant information
+129,486,2,0,It is not giving the relevant information
+130,404,1,1,It is giving the relevant information
+130,405,1,1,It is giving the relevant information
+130,405,2,1,It is giving the relevant information
+130,406,1,1,It is giving the relevant information
+130,406,2,1,It is giving the relevant information
+130,406,3,0,It is not giving the relevant information
+130,406,4,0,It is not giving the relevant information
+130,487,1,0,It is not giving the relevant information
+130,487,2,0,It is not giving the relevant information
+130,488,1,0,It is not giving the relevant information
+9,167,2,1,symptoms of cholera
+9,167,3,1,symptoms of cholera
+9,167,4,1,caused by cholera
+9,168,1,1,symptoms cholera
+9,168,2,1,caused in hours of cholera
+10,168,3,1,primary symptoms of cholera
+10,168,4,1,severe case
+10,169,1,1,symptoms cholera
+10,169,2,1,severe case
+10,170,1,1,first symptoms
+11,171,1,1,initial
+11,171,2,1,initial
+11,171,3,1,initial
+11,171,4,1,can be symptoms
+11,172,1,1,cholera symptoms
+12,173,1,1,cholera symptoms
+12,174,1,1,symptoms of cholera
+12,174,2,1,symptoms of cholera
+12,175,1,1,first symptoms
+12,175,2,1,first severe symptoms
+9,879,1,1,in 2014
+9,880,1,1,ebola 2014
+9,881,1,1,of 2014
+9,881,2,1,on 14 march 2014
+9,881,3,1,first mails in march
+10,881,4,1,first confirmed
+10,881,5,1,on 27 march
+10,882,1,1,begun in 2014
+10,882,2,1,america 2014
+10,883,1,1,in 2014
+11,884,1,1,initial case
+11,885,1,1,2014
+11,885,2,1,first alerts
+11,885,3,1,first alerts
+11,886,1,1,first developed in texas
+12,887,1,1,first of 2014
+12,887,2,1,in liberea
+12,887,3,1,first in united nations
+12,887,4,1,on march 2014
+12,887,5,1,first case 
+13,888,1,1,2014
+13,889,1,1,first
+13,890,1,1,starts 2014
+13,891,1,1,since march
+13,892,1,1,regarding 2014
+1,141,1,1,The given information is relevant
+1,142,1,1,The given information is relevant
+1,142,2,1,The given information is relevant
+1,142,3,1,The given information is relevant
+1,142,4,1,The given information is relevant
+2,144,1,1,The given information is relevant
+2,144,2,1,The given information is relevant
+2,145,1,1,The given information is relevant
+2,146,1,1,The given information is relevant
+2,147,1,1,The given information is relevant
+3,148,1,1,The given information is relevant
+3,148,2,1,The given information is relevant
+3,148,3,1,The given information is relevant
+3,148,4,1,The given information is relevant
+3,148,5,1,The given information is relevant
+4,149,1,1,The given information is relevant
+4,149,2,1,The given information is relevant
+4,150,1,1,The given information is relevant
+4,151,1,1,The given information is relevant
+4,151,2,1,The given information is relevant
+5,181,1,1,The given information is relevant
+5,181,2,1,The given information is relevant
+5,181,3,1,The given information is relevant
+5,181,4,1,The given information is relevant
+5,181,5,1,The given information is relevant
+6,182,1,1,The given information is relevant
+6,182,2,1,The given information is relevant
+6,182,3,1,The given information is relevant
+6,182,4,1,The given information is relevant
+6,182,5,1,The given information is relevant
+7,183,1,1,The given information is relevant
+7,183,2,1,The given information is relevant
+7,183,3,1,The given information is relevant
+7,184,1,1,The given information is relevant
+7,184,2,1,The given information is relevant
+1,918,1,1,relevant
+1,919,1,1,relevant
+1,919,2,1,relevant
+1,919,3,1,for ebola
+1,919,4,1,for ebola
+2,920,1,1,incubation period
+2,921,1,1,ebola
+2,921,2,1,ebola
+2,921,3,1,for ebola
+2,921,4,1,for ebola
+1,542,1,0,"[Ebola, Ebola virus]"
+1,543,1,0,"[Ebola, Ebola virus]"
+1,544,1,0,"[Ebola,  blood over-coagulates,blood vessels become leaky,bleeding,intravascular coagulation, liver]"
+1,544,2,0,"[Ebola, blood pressure plummets, vital organs begin to fail, the patient goes into shock and dies, kidney,liver, Ebola virus]"
+1,545,1,0,"[Ebola, fever, sore throat, muscle pains and headache,vomiting, diarrhea, rash, impaired kidney and liver function,bleeding from the eyes, ears, nose or mouth, throat,muscle,kidney,liver,eyes,ears,nose,mouth.]"
+2,546,1,0,"[Ebola, organ failure,fever,internal bleeding, diarrhea and vomiting, liver cells,]"
+2,546,2,0,"[Ebola, Ebola Reston]"
+2,546,3,0,"[Ebola, Ebola Reston]"
+2,547,1,0,"[Ebola,  blood clotting and hemorrhaging, every organ and tissue, except the bones and skeletal muscles, Ebola virus]"
+2,548,1,0,"[Ebola, bleeding., lymph nodes, spleen and liver]"
+9,566,1,0,"[Ebola,  Holes, kidneys, gonads, spleen,liver, Ebola virus]"
+9,567,1,0,"[Ebola,  nausea, vomiting, diarrhea, cough, chest pain, and sore throat,fever, headache,body aches., chest,throat,head,lymph glands., Ebola virus]"
+9,568,1,0,"[Ebola, diarrhea, red eyes,vomiting blood, gastrointestinal bleeding, mouth,rectum,brain,eyes,nose, Ebola virus]"
+9,569,1,0,"[Ebola,  decreases blood supply, liver,brain,lungs,kidneys,intestines,testicles, Ebola virus]"
+9,569,2,0,"[Ebola, Ebola virus]"
+10,569,3,0,"[EVD,malaria, cholera, typhoid fever, meningitis, bats or with a living or dead animal]"
+10,570,1,0,"[Ebola, Ebola virus]"
+10,571,1,0,"[Ebola, twice daily temperature,symptom checks]"
+10,572,1,0,"[Ebola, Ebola virus]"
+10,573,1,0,"[Ebola, Ebola virus]"
+11,574,1,0,"[Ebola, Ebola virus]"
+11,575,1,0,"[Ebola, Ebola virus]"
+11,576,1,0,[fever]
+11,577,1,0,[Ebola]
+11,578,1,0,"[Malaria, monitoring malaria control activities]"
+12,579,1,0,"[Malaria,  malaria control as programs progressively reduce transmission]"
+12,580,1,0,"[Ebola, Ebola virus]"
+12,581,1,0,"[Malaria, Ebola virus]"
+12,582,1,0,[Malaria]
+12,583,1,0,[Malaria]
+13,583,2,0,[Malaria]
+13,584,1,0,[Malaria]
+13,585,1,0,"[Scrub typhus, O. tsutsugamushi]"
+13,586,1,0,"[Typhus, disease-bearing lice]"
+13,587,1,0,"[Scrub typhus,  low body temperature, rapid pulse rate, presence of crepitation, low percentage of lymphocyte, low serum albumin,]"
+1,616,1,0,"[Ebola, Ebola virus]"
+1,617,1,0,[Typhus]
+1,618,1,0,[Typhus]
+1,619,1,0,[Typhus]
+1,619,2,0,[Typhus]
+2,620,1,0,"[Scrub Typhus,dengue,Malaria, headache, high fever and rash]"
+2,621,1,0,"[Murine typhus,endemic typhus,Mexican typhus,flea-borne typhus]"
+2,622,1,0,"[Endemic typhus,typhoid, malaise, headache, and myalgia]"
+2,623,1,0,[Ebola]
+2,624,1,0,[Ebola]
+3,625,1,0,"[Ebola,  21-day incubation period]"
+3,626,1,0,[Ebola virus disease]
+3,626,2,0,[Ebola]
+3,627,1,0,[Ebola]
+3,628,1,0,[Ebola]
+4,628,2,0,[Ebola]
+4,628,3,0,[Ebola]
+4,629,1,0,[Ebola]
+4,629,2,0,[Ebola]
+4,630,1,0,"[Hepatitis, Typhoid and Cholera]"
+5,631,1,0,[Ebola]
+5,631,2,0,[EVD]
+5,632,1,0,"[Ebola, Ebola virus,Zaire virus]"
+5,632,2,0,"[Ebola, blood transfusions,drugs]"
+5,632,3,0,[Ebola Virus Disease]
+6,633,1,0,[Ebola]
+6,634,1,0,"[Ebola, Drugs]"
+6,635,1,0,"[Ebola, fever, nausea, pain,fatigue]"
+6,636,1,0,"[Ebola, Fever, diarrhea]"
+6,637,1,0,[Ebola]
+7,638,1,0,"[Ebola, sicker]"
+7,638,2,0,"[Ebola, Fever severe diarrhea vomiting dehydration, Blood kidney liver]"
+7,639,1,0,[Ebola]
+7,639,2,0,[Ebola]
+7,640,1,0,"[Ebola, Ebola virus]"
+1,664,1,0,[]
+1,664,2,0,"[Ebola, joint and vision problems., good supportive care and the patient’s immune response]"
+1,665,1,0,[Ebola]
+1,666,1,0,[Ebola]
+1,666,2,0,[Ebola]
+9,675,1,0,"[Ebola, Mild-fever Nausea, Diarrhea, Vomiting, Bleeding, ZMapp]"
+9,676,1,0,[Ebola]
+9,677,1,0,"[Ebola, Blood vessels, Ebola virus, Marburg virus]"
+9,677,2,0,[Ebola]
+9,677,3,0,"[Ebola, Supportive care and Patient's Immune system, Develop immune system that last atleast 10 years, joint and vision problems.]"
+10,678,1,0,"[Ebola, CPR]"
+10,678,2,0,"[Ebola, Intubate, Supply dialysis]"
+10,679,1,0,[Ebola]
+10,680,1,0,"[Ebola, Care]"
+10,681,1,0,[Ebola]
+11,681,2,0,[Ebola]
+11,681,3,0,"[Ebola, abdominal pain, severe headache, dizziness and nausea]"
+11,682,1,0,"[Ebola,  myalgia, diarrhoea and vomiting, pleuritic pain, shock, bleeding tendency]"
+11,683,1,0,"[Ebola,  fever, vomiting]"
+11,684,1,0,"[Ebola,  oral rehydration therapy, intravenous fluids]"
+12,684,2,0,"[Ebola, avoiding direct contact with infected people, regular hand washing using soap and water,  protective clothing,  Bush meat]"
+12,685,1,0,"[EVD, Ebola Virus Disease,  Ebola Haemorrhagic Fever, fever, intense weakness, muscle pain, headache,  sore throat,vomiting, diarrhoea, rash, impaired kidney ,liver function,internal bleeding, external bleeding, prevention of needle sticks, sharps injuries, safe phlebotomy, hand hygiene, rational use of personal protective equipment, regular and rigorous environmental cleaning, decontamination of surfaces and equipment, safe management of soiled linen and healthcare waste.]"
+12,686,1,0,"[Ebola, Lassa, Marburg, Machupo, Junin,  Hanta, plague, tuberculosis, anthrax, cholera, typhoid, typhus, malaria,  viral hemorrhagic fevers]"
+12,687,1,0,"[ Typhus,  Spanish Flu,TB, Cholera, Malaria,  AIDS]"
+12,688,1,0,"[ Malaria,   fever, chills, flu-like illness,  female Anopheles mosquito]"
+1,704,2,0,"[Rickettsioses , typus, minimize exposure to infectious arthropods (including lice, fleas, ticks, mites) , minimize exposure to  animal reservoirs,  minimize exposure with  dogs and cats ,insecticides , acaricides , wearing protective clothing , endemic area ,vector-infested areas]"
+1,704,3,0,"[Rickettsioses , typus, doxycycline. Chloramphenicol, azithromycin, fluoroquinolones, rifampin]"
+1,704,4,0,"[Typus, Doxycycline , Tetracycline , Chloramphenicol , Tetracycline , intravenous fluids and oxygen]"
+1,705,1,0,"[Ebola,  screened , screening]"
+1,706,1,0,[Ebola]
+2,706,2,0,"[Ebola, saliva, sweat, semen, blood , physical contact,   isolate patient , quarantine patient , check point at airport]"
+2,706,3,0,"[Ebola,  Isolate the patient, maintain blood parameters, maintain blood pressure,   ICU set-up]"
+2,707,1,0,"[Ebola,  supporting therapy- hydrating the patient, monitoring their oxygen status and BP,  controlling infections]"
+2,708,1,0,"[ Ebola, Pre-boarding scrutiny , quarantine]"
+2,709,1,0,[ Ebola hemorrhagic fever]
+3,709,2,0,"[ dengue , Ebola]"
+3,709,3,0,"[ Ebola,  fever, headache, muscle pain, fatigue, diarrhea, vomiting, stomach pain, or unexplained bruising or bleeding, Wash hands , use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids of any person , Do not touch the body of someone who has died from Ebola , Do not touch bats and nonhuman primates , their blood and fluids and do not touch , eat raw meat prepared from these animals]"
+3,709,4,0,"[ Ebola,  Assessing the ability of Ebola-affected countries and airports to conduct exit screening , Assisting with development of exit screening protocols,Training staff on exit screening protocols and appropriate PPE use, Training in-country staff to provide future trainings.]"
+3,709,5,0,"[ Ebola,  avoiding contact with the blood , avoiding contact of body fluids of people who are ill with Ebola]"
+3,709,6,0,"[ Ebola ,  Ebola haemorrhagic fever,   wild animals,  Community engagement ,  case management, surveillance and contact tracing, a good laboratory service, safe burials , social mobilisation]"
+4,710,1,0,"[Ebola, Zaire virus]"
+4,711,1,0,"[ Ebola,    fever, severe internal bleeding,  personal protective gear, medicines, supplies they need to contain the virus.,   bodily fluids such as sweat and blood and saliva remains infectious even after death.]"
+4,711,2,0,"[ Ebola,  fever, headache, muscle pain, fatigue, diarrhea, vomiting, stomach pain, or unexplained bruising or bleeding, notify CDC of ill travelers on a plane , evaluation of ill travelers,  isolation and transport to a medical facility if needed]"
+4,711,3,0,[ Ebola]
+4,712,1,0,"[ Ebola,  wash your hands with soap and water ,wash hand with an alcohol-based hand sanitizer , avoid contact with blood and body fluids , Do not handle items that may have come in contact with an infected person?s blood or body fluids (such as clothes, bedding, needles, and medical equipment),Avoid funeral or burial rituals that require handling the body of someone who has died from Ebola,Avoid contact with bats and nonhuman primates or blood, fluids, avoid raw meat prepared from these animals,Avoid facilities in West Africa]"
+5,713,1,0,"[ Ebola,  Routine immunization services, vaccination campaigns (NIDs and SIAs) and vaccine-preventable disease surveillance , isolate and report any suspected cases]"
+5,713,2,0,"[ Ebola,  Routine immunization services, vaccination campaigns (NIDs and SIAs) and vaccine-preventable disease surveillance , isolate and report any suspected cases]"
+5,713,3,0,"[ Ebola,  Hand hygiene , hand washing with soap , Gloves should be worn and changed for each person vaccinated , DO NOT VACCINATE ANYONE SUSPECTED OF EVD OR EXPOSED TO EVD7 , ?one-time/one-person only? auto-disable syringes , strict safe injection and waste disposal practices]"
+5,714,1,0,"[ Ebola,  human-to-human transmission , direct contact through broken skin or mucous membranes with the blood, or other bodily fluids or secretions (stool, urine, saliva, semen) of infected people, wearing personal protection equipment]"
+5,714,2,0,"[ Ebola virus disease ,  Ebola haemorrhagic fever]"
+9,790,2,0,"[ Ebola,    review your health insurance plan to determine what medical services it would cover during your trip. Consider purchasing travel health and medical evacuation insurance , Practice careful hygiene. For example, wash your hands frequently with soap and water or use an alcohol-based hand sanitizer, Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk and semen) , Do not handle items that may have come in contact with an infected person?s blood or body fluids , Avoid direct contact with dead bodies, including participating in funeral or burial rituals , Avoid contact with animals (such as bats or monkeys) or with raw or undercooked meat ,Do not eat or handle bushmeat (wild animals hunted for food)]"
+9,790,3,0,"[ Ebola,   clinicians should isolate the patient pending diagnostic testing]"
+9,790,4,0,"[ Ebola,    medical evaluation and testing for Ebola, monitoring, or travel restrictions,   blood or body fluids]"
+9,791,1,0,"[ Ebola,    avoid nonessential travel , avoiding contact with the blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of people who are sick with Ebola,   blood or body fluids]"
+9,791,2,0,"[ Ebola,    up-to-date on routine vaccines, Schedule a visit with a travel medicine provider,  Put together a travel health kit containing items such as over-the-counter medications, a thermometer, alcohol-based hand sanitizer, and basic first aid items , ensure that your organization will be providing you with personal protection equipment (PPE) such as masks, gloves, gowns, and eye protection]"
+10,791,3,0,"[ Ebola,    Check your health insurance plan , ensure you are covered for healthcare abroad in the event of illness , Ask your organization about their medical evacuation plans , purchase travel health insurance and medical evacuation insurance ,  check the coverage limits for evacuation insurance]"
+10,791,4,0,"[ Ebola,    Practice careful hygiene , wash your hands with soap and water or use an alcohol-based hand sanitizer , Avoid contact with blood and body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of people who have Ebola , Do not handle items that may have come in contact with an infected person?s blood or body fluids.,   direct, unprotected contact with the blood or body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of an infected symptomatic person, contact with the body of someone who has died from Ebola, and exposure to objects (such as needles) , infected blood or other body fluids and tissues.]"
+10,791,5,0,"[ Ebola,    Avoid direct contact with the body of someone who has died from Ebola, including participating in funeral and burial rituals , Avoid contact with animals (such as monkeys or bats) or with raw or undercooked meat. , Do not eat or handle bushmeat (wild animals hunted for food). , Avoid hospitals in West Africa where Ebola patients are being treated. , Report any potential unprotected Ebola exposure or illness promptly following your organization's reporting procedures.,   direct, unprotected contact with the blood or body fluids (such as urine, saliva, sweat, feces, vomit, breast milk, and semen) of an infected symptomatic person, contact with the body of someone who has died from Ebola, and exposure to objects (such as needles) , infected blood or other body fluids and tissues.]"
+10,791,6,0,[ Ebola]
+10,791,7,0,"[ Ebola,   severe headache, muscle pain, vomiting, diarrhea, stomach pain, or unexplained bleeding or bruising.,   Take your temperature every morning and evening ,]"
+11,791,8,0,"[Ebola, Ebola virus]"
+11,792,1,0,"[ Ebola,   take great care with hygiene and food products and to avoid being in crowded public places]"
+11,793,1,0,"[ Ebola,   mindful of hygiene, avoid crowded places ,  refrain from consuming meat products.]"
+11,794,1,0,"[ Ebola,   avoiding contact with blood and body fluids of people who are ill with Ebola.]"
+11,795,1,0,"[ Ebola,   avoid all nonessential travel , avoiding contact with the blood and body fluids of people who are sick with Ebola.]"
+103,795,2,0,"[ Ebola,   direct contact with the blood or other body fluids of a sick person,   avoiding sick people and hospitals where patients with Ebola are being treated.]"
+103,795,3,0,[ Ebola]
+103,795,4,0,"[ Ebola,    CDC has staff working 24/7 at 20 Border Health field offices located in international airports and land borders , CDC staff are ready 24/7 to investigate cases of ill travelers on planes and ships entering the United States]"
+103,796,1,0,"[ Ebola,  high fever, stomach pains, diarrhoea, rash or bleeding,     practice frequent hand washing (e.g. after going to the toilet, or when hands are soiled); avoid direct contact with blood, secretions or other body fluids of infected living or dead persons or animals, as well as environments that have become contaminated with these infectious fluids such as soiled clothing, bed linen, or used needles]"
+103,797,1,0,"[ Ebola, Practice careful hygiene. Avoid contact with blood and body fluids , Do not handle items that may have come in contact with an infected person's blood or body fluids , Avoid funeral or burial rituals that require handling the body of someone who has died from Ebola , Avoid contact with animals or with raw meat]"
+104,797,2,0,"[ Ebola,  fever, headache, achiness, sore throat, diarrhea, vomiting, stomach pain, rash, or red eyes, Avoid hospitals where Ebola patients are being treated , Seek medical care immediately , Limit your contact with other people when you travel to the doctor. Do not travel anywhere else , Pay attention to your health after you return.]"
+104,797,3,0,"[Ebola,  bedding, clothing, Ebola virus]"
+104,797,4,0,"[ Ebola, Wear protective clothing, including masks, gloves, gowns, and eye protection. , Practice proper infection control and sterilization measures. , Isolate Ebola patients from unprotected people. , Avoid direct contact with the bodies of people who have died from Ebola. ,Notify health officials if you have been exposed to someone with Ebola.]"
+104,798,1,0,"[ Ebola,  avoid areas that have had outbreaks ,  avoid contact with infected people, wash their hands often, and not touch or eat wild animals (sometimes called ""bush meat"") , wear head-to-toe protective clothing with no skin exposed.]"
+104,798,2,0,"[ Ebola,  isolating and treating people who are infected with the Ebola virus , Any needles or other equipment used in their treatment should be disposed , remains of those who die from the disease must be kept isolated and buried promptly by trained professionals wearing full safety gear.]"
+105,798,3,0,"[ Ebola,  keeping them well hydrated, maintaining their oxygen and blood pressure levels, replacing lost blood through transfusions, and treating symptoms and complications,  Patients also need to be isolated from the public during treatment to help prevent the disease from spreading.]"
+105,799,1,0,"[ Ebola,  avoid wild animals and raw or undercooked bushmeat, as well as take to heart the well-known advice to avoid the body fluids of those infected with the virus]"
+105,799,2,0,"[ Ebola, Immediately notify your organization, health officials, and the US embassy or consulate in Liberia if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE]"
+105,799,3,0,"[ Ebola, Immediately notify your organization, health officials, and the US embassy or consulate in Guinea if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE]"
+105,799,4,0,"[ Ebola, Immediately notify your organization, health officials, and the US embassy or consulate in Sierra Leone if you think you have been exposed to someone with Ebola but were not wearing recommended PPE , Wear the recommended personal protective equipment (PPE) , Use proper infection control and decontamination measures , Isolate patients with suspected, probable, or confirmed Ebola from other patients , Avoid direct contact with dead bodies without wearing recommended PPE]"
+4,808,1,0,"[cholera, diphtheria, infectious tuberculosis, plague, smallpox, yellow fever, viral hemorrhagic fevers, Severe Acute Respiratory Syndrome, influenza, sick,  influenza viruses]"
+4,809,1,0,"[cholera,  contagion]"
+4,809,2,0,"[influenza, plague,, segregation or isolation to separate persons, communicable disease]"
+4,810,1,0,"[cholera, put under quarantine]"
+4,810,2,0,[cholera]
+4,810,3,0,"[cholera, dysentery, vomiting, cramps, intestines]"
+4,811,1,0,"[ebola, taken off a flight, flushed and distraught]"
+1,842,2,0,[cholera]
+1,842,3,0,[cholera]
+1,842,4,0,"[ebola, fever, sore throat, muscle pain, headaches,  vomiting, diarrhea, rash, decreased functioning of the liver and kidneys, ebolavirus]"
+1,842,5,0,"[ebola,  influenza, malaria, dengue fever, fatigue, fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite, throat, chest, skin, ebolavirus]"
+1,842,6,0,"[ebola,  influenza, malaria, dengue fever, fever, headaches, joint, muscle and abdominal pain, Vomiting, diarrhea, loss of appetite, throat,liver, kidney]"
+2,843,1,0,"[Ebola,  Coagulation defects,Bleeding,Shock,Hemorrhagic fever,Illness, Ebola virus,RNA virus,Rhabdoviruses,Paramyxoviruses,Filoviridae,Hemorrhagic fever viruses]"
+2,844,1,0,"[ebola, bleeding, immune systems, organs, cells, virus]"
+2,844,2,0,"[ebola, cholera, maleria,  High fever, Headache, Joint and muscle aches, Sore throat, Weakness, Stomach pain, Lack of appetite, Blood vomiting, eyes, ears, nose]"
+2,844,3,0,"[ebola, checking such animals for infection and killing and properly disposing of the bodies, tissues]"
+2,844,4,0,"[evd, oral rehydration therapy (slightly sweet and salty water to drink), tissues, virus]"
+116,812,1,0,[Ebola]
+116,812,2,0,"[ebola, refrain from attending mass gatherings and using public transportation, refrain from traveling long distances, Ebola virus]"
+116,813,1,0,"[ebola, housed in a ""safe, rural setting""]"
+116,814,1,0,"[ebola, vomiting, diarrhea,  admitted to the hospital, virus Ebola]"
+116,815,1,0,"[ebola, quarantined for three weeks]"
+116,815,2,0,"[ebola, quarantine doctors and nurses]"
+116,815,3,0,[ebola]
+117,816,1,0,[ebola]
+117,817,1,0,"[ebola, quarantine 112 soldiers, settle quarantine suit]"
+117,817,2,0,"[ebola, quarantined on a secluded island]"
+117,817,3,0,"[ebola, quarantine them]"
+117,817,4,0,[Ebola]
+117,817,5,0,[put in a secluded place]
+117,817,6,0,"[ebola, deadly virus]"
+118,817,7,0,"[ebola, deadly outbreak]"
+118,818,1,0,"[smallpox, measles, scarlet fever, Asiatic cholera,, deadly disease, epidemic]"
+118,819,1,0,"[typhus,  removed to quarantine facilities]"
+118,819,2,0,"[medical inspection or treatment, lice, fever]"
+118,819,3,0,"[medical inspection or treatment, lice, fever]"
+118,819,4,0,"[typhus,  removed to quarantine facilities]"
+118,819,5,0,"[typhus, malnutrition]"
+119,819,6,0,"[typhus, verge of death]"
+119,819,7,0,"[Ebola, Ebola virus]"
+119,820,1,0,"[cholera, ill, put under quarantine, put in quarantine]"
+119,820,2,0,"[cholera, quarantine enforced]"
+119,820,3,0,"[cholera, flew a yellow quarantine flag]"
+119,821,1,0,"[cholera, sick, kept away from marshes, garbage, and dirty water, quarantined]"
+119,821,2,0,"[fever, rash, sick, examined any sick]"
+126,828,2,0,"[malaria, chills, fever, beginning with uncontrollable shivering for an hour or two, followed by a rapid spike in temperature, fatigue, severe headache, nausea, vomiting, head]"
+126,828,3,0,"[falciparum, malaria, fever, red blood cells, kidney, lever, parasite]"
+126,829,1,0,"[malaria, brain, kidney, lever, blood vessels, malaria parasite]"
+126,829,2,0,"[malaria, clindamycin (Cleocin), mefloquin (Lariam), sulfadoxone, pyrimethamine (Fansidar), mouth, malaria parasite]"
+126,829,3,0,[falciparum malaria]
+127,830,1,0,"[typhus, severe headache, nonproductive cough, nausea, muscle aches (myalgia), chest pain, general feeling of illness (malaise), chills, high fever, extreme fatigue (prostration), trunk, gace, palm, soles]"
+127,830,2,0,"[typhus, black, crusted bite, tender lymph nodes, eye pain and redness, conjunctivitis, rash, eye]"
+127,830,3,0,"[rash, delirium, stupor,  intestines, liver, heart, kidneys, brain]"
+127,830,4,0,"[rash, petechiae, delirium, stupor, hypotension, shock,   face, palms, soles]"
+127,831,1,0,"[Salmonella Typhi, epithelial cells, small intestine, distal ileum, lymphoid tissue, multiple organ systems]"
+128,831,2,0,[Ebola]
+128,831,3,0,"[typhus, typhoid, fever]"
+128,831,4,0,"[enteric fever, malaise, dry coughing, headache, myalgia, fever]"
+128,831,5,0,"[cholera, watery diarrhea, vomiting, dehydration, Rapid heart rate, Loss of skin elasticity, Dry mucous membranes, Low blood pressure, Thirst, muscle cramps, throat, nose, eyelids]"
+128,832,1,0,"[cholera, cells, intestines, bacterium Vibrio cholerae]"
+129,833,1,0,"[cholera, diarrhoea, stomach, bacterium Vibrio cholerae]"
+129,833,2,0,"[cholera, mild illness, diarrhoea,, stomach]"
+129,834,1,0,"[cholera, cells, intestinal mucosa, epithelial cells, cholera toxin]"
+129,834,2,0,"[cholera, cystic fibrosis, intestine]"
+129,834,3,0,"[cholera, diarrhea, dehydration, intestine, Vibrio cholerae]"
+130,834,4,0,"[ebola, fever fatigue, muscle pain, headache, sore throat, vomiting, diarrhoea, rash, symptoms of impaired kidney &amp; liver function, kidney, liver, virus]"
+130,834,5,0,"[Ebola,  Flu,Bleeding,Organ failure]"
+130,834,6,0,"[ebola, kidney, ebola, virus]"
+130,835,1,0,"[ebola, cell, blood vessels]"
+130,835,2,0,"[ebola, cells, white blood cells, liver, kidney, spleen, brain, ebola virus]"
